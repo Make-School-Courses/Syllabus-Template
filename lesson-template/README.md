@@ -1,37 +1,33 @@
 # Lesson Title
 
-## Overview short description of class
-
-Write a short description of what happens today in class or quick 
-overview of what will be taught. 
-
-### Why you should know this (optional)
+## Why you should know this or industry application (optional) (5 min)
 
 Explain why students should care to learn the material presented in this class. 
 
-## Learning Objectives/Competencies
+## Learning Objectives/Competencies (5 min)
 
 1. Identify and describe
 1. Define 
 1. Desgin 
 1. Implement 
 
-## Initial Exercise
+## Initial Exercise (15 min)
 
 - Funny comic
 - Prime the Pump (e.g. think and jot, think pair share, etc)
 - Productivity Tip/Tool
 - Review of current event (e.g. tech news relevant to your track/topic)
 - Quiz on homework or topic(s) of past class
+- ConcepTest
 
-## Overview/TT I 
+## Overview/TT I (20 min)
 
 - Why learn this? 
 - Industry examples of usage
 - Best practices
 - Personal anecdote 
 
-## In Class Activity I
+## In Class Activity I (30 min)
 
 - I do, We do, You do
 - Reading & Discussion Questions in small groups
@@ -44,11 +40,11 @@ Explain why students should care to learn the material presented in this class.
 - Form into groups
 - etc (get creative :D)
 
-## Overview/TT II (optional)
+## Overview/TT II (optional) (20 min)
 
-## In Class Activity II (optional)
+## In Class Activity II (optional) (30 min)
 
-## After Class
+## Wrap Up (5 min)
 
 - Continue working on your current tutorial
 - Complete reading
