@@ -36,6 +36,8 @@ Students by the end of the course will be able to ...
 
 - Link to all of the technical tutorials, projects, and course-level assignments (i.e. tutorials, contractor project, custom projects, etc)
 - Use a list
+- Every project should have a description & requirements. 
+- Link rubrics used to evaluate either in this list or in the project description.
 
 ## Evaluation
 
