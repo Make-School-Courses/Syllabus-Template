@@ -1,15 +1,24 @@
-# Lesson Title
+## Minute-by-Minute [OPTIONAL]
 
-## Why you should know this or industry application (optional) (5 min)
+| **Elapsed** | **Time**  | **Activity**              |
+| ----------- | --------- | ------------------------- |
+| 0:00        | 0:05      | Objectives                |
+| 0:05        | 0:15      | Overview                  |
+| 0:20        | 0:45      | In Class Activity I       |
+| 1:05        | 0:10      | BREAK                     |
+| 1:15        | 0:45      | In Class Activity II      |
+| TOTAL       | 2:00      |                           |
 
-Explain why students should care to learn the material presented in this class. 
+# Why you should know this or industry application (optional) (5 min)
 
-## Learning Objectives/Competencies (5 min)
+Explain why students should care to learn the material presented in this class.
+
+## Class Learning Objectives/Competencies (5 min)
 
 1. Identify and describe
-1. Define 
-1. Desgin 
-1. Implement 
+1. Define
+1. Design
+1. Implement
 
 ## Initial Exercise (15 min)
 
@@ -18,14 +27,14 @@ Explain why students should care to learn the material presented in this class.
 - Productivity Tip/Tool
 - Review of current event (e.g. tech news relevant to your track/topic)
 - Quiz on homework or topic(s) of past class
-- ConcepTest
+- Concept Test
 
 ## Overview/TT I (20 min)
 
-- Why learn this? 
+- Why learn this?
 - Industry examples of usage
 - Best practices
-- Personal anecdote 
+- Personal anecdote
 
 ## In Class Activity I (30 min)
 

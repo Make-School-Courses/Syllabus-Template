@@ -1,4 +1,4 @@
-# Title 
+# Title
 
 ## Course Description
 
@@ -6,7 +6,7 @@ Describe your course here. A short elevator pitch for the course. This will be l
 
 ### Why you should know this (optional)
 
-Explain why students should care to learn the material presented in this class. 
+Explain why students should care to learn the material presented in this class.
 
 ## Course Specifics
 
@@ -16,7 +16,7 @@ Total Out-of-Class Hours: 75 hours <br>
 Total Hours: 112.5 hours <br>
 Units:  3 units <br>
 Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs 
+Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
@@ -32,72 +32,77 @@ Students by the end of the course will be able to ...
 1. Design & Implement
 1. Master
 
-## Tutorials & Projects
 
-- Link to all of the technical tutorials, projects, and course-level assignments (i.e. tutorials, contractor project, custom projects, etc)
-- Use a list
-- Every project should have a description & requirements. 
-- Link rubrics used to evaluate either in this list or in the project description.
+
+## Schedule
+
+**Course Dates:** Tuesday, October 23 – Thursday, December 13, 2018 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|   1   |  Tuesday, October 23    | [Lesson 1] |
+|   2   | Thursday, October 25    | [Lesson 2] |
+|   3   |  Tuesday, October 30  | [Lesson 1] |
+|   4   | Thursday, November 1  | [Lesson 1] |
+|   5   |  Tuesday, November 6 | [Lesson 1] |
+|   6   | Thursday, November 8 | [Lesson 1] |
+|   7   |  Tuesday, November 13 | [Lesson 1] |
+|   8   | Thursday, November 15 | [Lesson 1] |
+|      |  Tuesday, November 20 | **Don Rags** |
+|     | Thursday, November 22 | **Fall Break** |
+|  9   |  Tuesday, November 27    | [Lesson 1] |
+|  10   | Thursday, November 29    | [Lesson 1] |
+|  11     |  Tuesday, December 4    | [Lesson 1] |
+|  12   | Thursday, December 6   | [Lesson 1] |
+|  13   | Tuesday, December 11   | [Lesson 1] |
+|  14   | Thursday, December 13   | Final Exams |
+
+[Lesson 1]: Lessons/Lesson1.md
+[Lesson 2]: Lessons/Lesson2.md
+
+## Class Assignments [Remove header if you like]
+- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
+- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
+- Projects should be linked to a project page which has a description & requirements.
+
+### Tutorials
+[REWORD AS RELEVANT TO YOUR COURSE] Tutorials are to help you get started in a topic.  They are graded on completion only.
+
+- [Do Cool Stuff Tutorial]()
+
+### Projects
+[REWORD AS RELEVANT TO YOUR COURSE] Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
+- [Sample Project](Sample_Project.md)
+    -   [Sample Project Rubric](Sample_Rubric.md)
+
+### Other Class assignments
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Finish all required tutorials and projects
+- Pass all required tutorials and projects (see associated rubrics)
 - Pass the final summative assessment >=75%
-- No more than two no call no shows (no call no shows will result in recommendation for a PIP)
-- No more than four excused absences
+- Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-## Lessons
+## Attendance
+ Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions: classes, huddles, etc. and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
 
-Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
+Attendance requirements for scheduled sessions are:
+- No more than two no call no shows per term in any scheduled session.
+- No more than four excused absences per term in any scheduled session.
 
-1. Lesson Title & Topic
-    - **Before Class**
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP will result in not being invited back next term.   
+
 
 ## Make School Course Policies
 
 [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
+[Accommodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
+[Attendance Policy]()  
 [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
 [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
 <br>
