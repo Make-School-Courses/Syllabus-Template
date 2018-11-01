@@ -42,10 +42,10 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, October 23    | [Lesson 1] |
-|   2   | Thursday, October 25    | [Lesson 2] |
-|   3   |  Tuesday, October 30  | [Lesson 1] |
-|   4   | Thursday, November 1  | [Lesson 1] |
+|  Wk 1  |  Day 1 or Tuesday, October 23    | [Lesson 1] |
+|  Wk 1   | Thursday, October 25    | [Lesson 2] |
+|  Wk 2   |  Tuesday, October 30  | [Lesson 1] |
+|  Wk 2   | Thursday, November 1  | [Lesson 1] |
 |   5   |  Tuesday, November 6 | [Lesson 1] |
 |   6   | Thursday, November 8 | [Lesson 1] |
 |   7   |  Tuesday, November 13 | [Lesson 1] |
@@ -56,8 +56,8 @@ Students by the end of the course will be able to ...
 |  10   | Thursday, November 29    | [Lesson 1] |
 |  11     |  Tuesday, December 4    | [Lesson 1] |
 |  12   | Thursday, December 6   | [Lesson 1] |
-|  13   | Tuesday, December 11   | [Lesson 1] |
-|  14   | Thursday, December 13   | Final Exams |
+|  13   | Tuesday, December 11   | Final Exams |
+|  14   | Thursday, December 13   | Final Class (presentations, etc) |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
@@ -80,22 +80,23 @@ Students by the end of the course will be able to ...
 ### Other Class assignments
 
 ## Evaluation
-
+[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]
 To pass this course you must meet the following requirements:
 
-- Pass all required tutorials and projects (see associated rubrics)
+- Complete all required tutorials 
+- Pass all projects according to the associated project rubric
 - Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
 ## Attendance
- Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions: classes, huddles, etc. and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
 
 Attendance requirements for scheduled sessions are:
 - No more than two no call no shows per term in any scheduled session.
 - No more than four excused absences per term in any scheduled session.
 
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP will result in not being invited back next term.   
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School. 
 
 
 ## Make School Course Policies
