@@ -42,22 +42,22 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  Wk 1  |  Day 1 or Tuesday, October 23    | [Lesson 1] |
-|  Wk 1   | Thursday, October 25    | [Lesson 2] |
-|  Wk 2   |  Tuesday, October 30  | [Lesson 1] |
-|  Wk 2   | Thursday, November 1  | [Lesson 1] |
-|   5   |  Tuesday, November 6 | [Lesson 1] |
-|   6   | Thursday, November 8 | [Lesson 1] |
-|   7   |  Tuesday, November 13 | [Lesson 1] |
-|   8   | Thursday, November 15 | [Lesson 1] |
-|      |  Tuesday, November 20 | **Don Rags** |
-|     | Thursday, November 22 | **Fall Break** |
-|  9   |  Tuesday, November 27    | [Lesson 1] |
-|  10   | Thursday, November 29    | [Lesson 1] |
-|  11     |  Tuesday, December 4    | [Lesson 1] |
-|  12   | Thursday, December 6   | [Lesson 1] |
-|  13   | Tuesday, December 11   | Final Exams |
-|  14   | Thursday, December 13   | Final Class (presentations, etc) |
+|  Wk 1 |  Day 1 or Tuesday, October 23    | [Lesson 1] |
+|  Wk 1 | Thursday, October 25             | [Lesson 2] |
+|  Wk 2 |  Tuesday, October 30             | [Lesson 1] |
+|  Wk 2 | Thursday, November 1             | [Lesson 1] |
+|  Wk 5 |  Tuesday, November 6             | [Lesson 1] |
+|  Wk 6 | Thursday, November 8             | [Lesson 1] |
+|  Wk 7 |  Tuesday, November 13            | [Lesson 1] |
+|  Wk 8 | Thursday, November 15            | [Lesson 1] |
+|       |  Tuesday, November 20            | **Don Rags** |
+|       | Thursday, November 22            | **Fall Break** |
+|  Wk 9 |  Tuesday, November 27            | [Lesson 1] |
+|  Wk 10| Thursday, November 29            | [Lesson 1] |
+|  Wk 11|  Tuesday, December 4             | [Lesson 1] |
+|  Wk 12| Thursday, December 6             | [Lesson 1] |
+|  Wk 13| Tuesday, December 11             | Final Exams |
+|  Wk 14| Thursday, December 13            | Final Class (presentations, etc) |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
