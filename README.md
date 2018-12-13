@@ -35,32 +35,66 @@ Students by the end of the course will be able to ...
 
 
 ## Schedule
+---
+### _INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE SUBMITTING_
+If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
-**Course Dates:** Tuesday, October 23 – Thursday, December 13, 2018 (7 weeks)
+---
+### M/W Template
+**Course Dates:** Wednesday, January 23 – Wednesday, March 6, 2019 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  Wk 1 |  Day 1 or Tuesday, October 23    | [Lesson 1] |
-|  Wk 1 | Thursday, October 25             | [Lesson 2] |
-|  Wk 2 |  Tuesday, October 30             | [Lesson 1] |
-|  Wk 2 | Thursday, November 1             | [Lesson 1] |
-|  Wk 5 |  Tuesday, November 6             | [Lesson 1] |
-|  Wk 6 | Thursday, November 8             | [Lesson 1] |
-|  Wk 7 |  Tuesday, November 13            | [Lesson 1] |
-|  Wk 8 | Thursday, November 15            | [Lesson 1] |
-|       |  Tuesday, November 20            | **Don Rags** |
-|       | Thursday, November 22            | **Fall Break** |
-|  Wk 9 |  Tuesday, November 27            | [Lesson 1] |
-|  Wk 10| Thursday, November 29            | [Lesson 1] |
-|  Wk 11|  Tuesday, December 4             | [Lesson 1] |
-|  Wk 12| Thursday, December 6             | [Lesson 1] |
-|  Wk 13| Tuesday, December 11             | Final Exams |
-|  Wk 14| Thursday, December 13            | Final Class (presentations, etc) |
+|  Wk 1 | Wednesday, January 23    | [Lesson 1] |
+|  Wk 2 | Monday, January 28             | [Lesson 2] |
+|  Wk 2 |  Wednesday, January 30             | [Lesson 3] |
+|  Wk 3 | Monday, February 4             | [Lesson 4] |
+|  Wk 3 |  Wednesday, February 6             | [Lesson 5] |
+|  Wk 4 | Monday, February 11             | [Lesson 6] |
+|  Wk 4 |  Wednesday, February 13            | [Lesson 7] |
+|  Wk 5  | Monday, February 18             | **President's Day** |
+|  Wk 5 |  Wednesday, February 20            | [Lesson 8] |
+|  Wk 6 | Monday, February 25             | [Lesson 9] |
+|  Wk 6 |  Wednesday, February 27            | [Lesson 10] |
+|  Wk 7 | Monday, March 4             | Final Exams |
+|  Wk 7 |  Wednesday, March 6            | Final Class (presentations, etc) |
+
+### Tu/Th Template
+**Course Dates:** Tuesday, January 22 – Thursday, March 7, 2019 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (12 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  Wk 1 |  Tuesday, January 22              | [Lesson 1] |
+|  Wk 1 | Thursday, January 24             | [Lesson 2] |
+|  Wk 2 |  Tuesday, January 29             | [Lesson 3] |
+|  Wk 2 | Thursday, January 31             | [Lesson 4] |
+|  Wk 3 |  Tuesday, February 5             | [Lesson 5] |
+|  Wk 3 | Thursday, February 7             | [Lesson 6] |
+|  Wk 4 |  Tuesday, February 12             | [Lesson 7] |
+|  Wk 4 | Thursday, February 14             | [Lesson 8] |
+|  Wk 5 |  Tuesday, February 19             | [Lesson 9] |
+|  Wk 5 | Thursday, February 21             | [Lesson 10] |
+|  Wk 6 |  Tuesday, February 26             | [Lesson 11] |
+|  Wk 6 | Thursday, February 28             | [Lesson 12] |
+|  Wk 7 |  Tuesday, March 5             | Final Exams |
+|  Wk 7 | Thursday, March 7             | Final Class (presentations, etc) |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
+[Lesson 3]: Lessons/Lesson3.md
+[Lesson 4]: Lessons/Lesson4.md
+[Lesson 5]: Lessons/Lesson5.md
+[Lesson 6]: Lessons/Lesson6.md
+[Lesson 7]: Lessons/Lesson7.md
+[Lesson 8]: Lessons/Lesson8.md
+[Lesson 9]: Lessons/Lesson9.md
+[Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
+[Lesson 12]: Lessons/Lesson12.md
 
 ## Class Assignments [Remove header if you like]
 - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
