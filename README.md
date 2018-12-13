@@ -142,4 +142,4 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 [Grading System](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.cxbhr2jav1ot)
 <br>
 [Title IX Policy](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.i4ms67qdl6oq)<br>
-[Program Learning Outcomes](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.jqq2rqq5ckxa)
+[Program Learning Outcomes](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.mmypxnefbswv)
