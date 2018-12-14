@@ -41,12 +41,13 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 ---
 ### M/W Template
-**Course Dates:** Wednesday, January 23 – Wednesday, March 6, 2019 (7 weeks)
+**Course Dates:** Monday, January 21 – Wednesday, March 6, 2019 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
+|  Wk 1  | Monday, January 21             | **MLK Jr. Day** |
 |  Wk 1 | Wednesday, January 23    | [Lesson 1] |
 |  Wk 2 | Monday, January 28             | [Lesson 2] |
 |  Wk 2 |  Wednesday, January 30             | [Lesson 3] |
@@ -55,11 +56,12 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  Wk 4 | Monday, February 11             | [Lesson 6] |
 |  Wk 4 |  Wednesday, February 13            | [Lesson 7] |
 |  Wk 5  | Monday, February 18             | **President's Day** |
-|  Wk 5 |  Wednesday, February 20            | [Lesson 8] |
-|  Wk 6 | Monday, February 25             | [Lesson 9] |
-|  Wk 6 |  Wednesday, February 27            | [Lesson 10] |
-|  Wk 7 | Monday, March 4             | Final Exams |
-|  Wk 7 |  Wednesday, March 6            | Final Class (presentations, etc) |
+|  Wk 5  | **Tuesday**, February 19             | [Lesson 8] |
+|  Wk 5 |  Wednesday, February 20            | [Lesson 9] |
+|  Wk 6 | Monday, February 25             | [Lesson 10] |
+|  Wk 6 |  Wednesday, February 27            | [Lesson 11] |
+|  Wk 7 | Monday, March 4             | Final Class (presentations, etc) |
+|  Wk 7 |  Wednesday, March 6            | Final Exams/Presentations |
 
 ### Tu/Th Template
 **Course Dates:** Tuesday, January 22 – Thursday, March 7, 2019 (7 weeks)
@@ -76,12 +78,12 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  Wk 3 | Thursday, February 7             | [Lesson 6] |
 |  Wk 4 |  Tuesday, February 12             | [Lesson 7] |
 |  Wk 4 | Thursday, February 14             | [Lesson 8] |
-|  Wk 5 |  Tuesday, February 19             | [Lesson 9] |
-|  Wk 5 | Thursday, February 21             | [Lesson 10] |
-|  Wk 6 |  Tuesday, February 26             | [Lesson 11] |
-|  Wk 6 | Thursday, February 28             | [Lesson 12] |
-|  Wk 7 |  Tuesday, March 5             | Final Exams |
-|  Wk 7 | Thursday, March 7             | Final Class (presentations, etc) |
+|  Wk 5 |  Tuesday, February 19             | **President's Day** |
+|  Wk 5 | Thursday, February 21             | [Lesson 9] |
+|  Wk 6 |  Tuesday, February 26             | [Lesson 10] |
+|  Wk 6 | Thursday, February 28             | [Lesson 11] |
+|  Wk 7 |  Tuesday, March 5             | Final Class (presentations, etc) |
+|  Wk 7 | Thursday, March 7             | Final Exams/Presentations |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
@@ -107,6 +109,16 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 - [Do Cool Stuff Tutorial]()
 
 ### Projects
+**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+
+- **Good Example:** 10+ commits throughout the length of the course, looking for a healthy spattering of commits each week
+- **Bad Example** 10 commits on one day during the course and no others.
+
+**Why are we doing this?**
+We want to encourage best practices that you will see working as a professional software engineer. As an engineer, it's much easier to retrace your steps if you break your project/product/code up into smaller pieces. This helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code).
+
+Through this requirement, we hope to encourage you to think about projects with a modular mindset, breaking them down into smaller milestones that come together to make your fully-realized solution.
+
 [REWORD AS RELEVANT TO YOUR COURSE] Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
 - [Sample Project](Sample_Project.md)
     -   [Sample Project Rubric](Sample_Rubric.md)
