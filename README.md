@@ -47,21 +47,21 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  Wk 1  | Monday, January 21             | **MLK Jr. Day** |
-|  Wk 1 | Wednesday, January 23    | [Lesson 1] |
-|  Wk 2 | Monday, January 28             | [Lesson 2] |
-|  Wk 2 |  Wednesday, January 30             | [Lesson 3] |
-|  Wk 3 | Monday, February 4             | [Lesson 4] |
-|  Wk 3 |  Wednesday, February 6             | [Lesson 5] |
-|  Wk 4 | Monday, February 11             | [Lesson 6] |
-|  Wk 4 |  Wednesday, February 13            | [Lesson 7] |
-|  Wk 5  | Monday, February 18             | **President's Day** |
-|  Wk 5  | **Tuesday**, February 19             | [Lesson 8] |
-|  Wk 5 |  Wednesday, February 20            | [Lesson 9] |
-|  Wk 6 | Monday, February 25             | [Lesson 10] |
-|  Wk 6 |  Wednesday, February 27            | [Lesson 11] |
-|  Wk 7 | Monday, March 4             | Final Class (presentations, etc) |
-|  Wk 7 |  Wednesday, March 6            | Final Exams/Presentations |
+|  -  | Monday, January 21             | **MLK Jr. Day** |
+|  1 | Wednesday, January 23    | [Lesson 1] |
+|  2 | Monday, January 28             | [Lesson 2] |
+|  3 |  Wednesday, January 30             | [Lesson 3] |
+|  4 | Monday, February 4             | [Lesson 4] |
+|  5 |  Wednesday, February 6             | [Lesson 5] |
+|  6 | Monday, February 11             | [Lesson 6] |
+|  7 |  Wednesday, February 13            | [Lesson 7] |
+|  -  | Monday, February 18             | **President's Day (Observed)** |
+|  8  | **Tuesday, February 19**             | [Lesson 8] |
+|  9 |  Wednesday, February 20            | [Lesson 9] |
+|  10 | Monday, February 25             | [Lesson 10] |
+|  11 |  Wednesday, February 27            | [Lesson 11] |
+|  12 | Monday, March 4             | Final Class (presentations, etc) |
+|  13 |  Wednesday, March 6            | Final Exams/Presentations |
 
 ### Tu/Th Template
 **Course Dates:** Tuesday, January 22 – Thursday, March 7, 2019 (7 weeks)
@@ -70,20 +70,20 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  Wk 1 |  Tuesday, January 22              | [Lesson 1] |
-|  Wk 1 | Thursday, January 24             | [Lesson 2] |
-|  Wk 2 |  Tuesday, January 29             | [Lesson 3] |
-|  Wk 2 | Thursday, January 31             | [Lesson 4] |
-|  Wk 3 |  Tuesday, February 5             | [Lesson 5] |
-|  Wk 3 | Thursday, February 7             | [Lesson 6] |
-|  Wk 4 |  Tuesday, February 12             | [Lesson 7] |
-|  Wk 4 | Thursday, February 14             | [Lesson 8] |
-|  Wk 5 |  Tuesday, February 19             | **President's Day** |
-|  Wk 5 | Thursday, February 21             | [Lesson 9] |
-|  Wk 6 |  Tuesday, February 26             | [Lesson 10] |
-|  Wk 6 | Thursday, February 28             | [Lesson 11] |
-|  Wk 7 |  Tuesday, March 5             | Final Class (presentations, etc) |
-|  Wk 7 | Thursday, March 7             | Final Exams/Presentations |
+|  1 |  Tuesday, January 22              | [Lesson 1] |
+|  2 | Thursday, January 24             | [Lesson 2] |
+|  3 |  Tuesday, January 29             | [Lesson 3] |
+|  4 | Thursday, January 31             | [Lesson 4] |
+|  5 |  Tuesday, February 5             | [Lesson 5] |
+|  6 | Thursday, February 7             | [Lesson 6] |
+|  7 |  Tuesday, February 12             | [Lesson 7] |
+|  8 | Thursday, February 14             | [Lesson 8] |
+|  - |  Tuesday, February 19             | **President's Day (Observed)** |
+|  9 | Thursday, February 21             | [Lesson 9] |
+|  10 |  Tuesday, February 26             | [Lesson 10] |
+|  11 | Thursday, February 28             | [Lesson 11] |
+|  12 |  Tuesday, March 5             | Final Class (presentations, etc) |
+|  13 | Thursday, March 7             | Final Exams/Presentations |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
