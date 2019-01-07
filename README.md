@@ -154,11 +154,11 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 
 ## Make School Course Policies
 
-[Academic Honesty](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.2mjdzgr0kzu4)<br>
-[Accommodations for Students](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.s2ivlubnpny2)<br>
-[Attendance Policy](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.l04zmmqhvj85)  
-[Diversity and Inclusion Policy](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.u0lbvv9zq3hw)<br>
-[Grading System](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.cxbhr2jav1ot)
+[Academic Honesty](https://make.sc/academic-honesty)<br>
+[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
+[Attendance Policy](https://make.sc/attendance-policy)  
+[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
+[Grading System](https://make.sc/grading-system)
 <br>
-[Title IX Policy](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.i4ms67qdl6oq)<br>
-[Program Learning Outcomes](https://docs.google.com/document/d/1C4Nm-aWa-l_omuyJRkOoNCBpxcK4LvyYlhcdzvNjwGs/preview#heading=h.mmypxnefbswv)
+[Title IX Policy](https://make.sc/title-ix-policy)<br>
+[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
