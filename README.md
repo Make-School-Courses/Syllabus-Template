@@ -23,7 +23,7 @@ Class Sessions:  14 classes, 7 labs
 - Prerequisite 1
 - Prerequisite 2
 
-## Learning Objectives or Competencies (5-8)
+## Learning Objectives (5-8)
 
 Students by the end of the course will be able to ...
 
