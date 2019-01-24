@@ -15,7 +15,7 @@
 
 Explain why students should care to learn the material presented in this class.
 
-## Class Learning Objectives/Competencies (5 min)
+## Learning Objectives (5 min)
 
 1. Identify and describe
 1. Define
