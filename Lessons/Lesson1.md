@@ -1,3 +1,5 @@
+# Lesson Title
+
 ## Minute-by-Minute [OPTIONAL]
 
 | **Elapsed** | **Time**  | **Activity**              |
@@ -9,7 +11,7 @@
 | 1:15        | 0:45      | In Class Activity II      |
 | TOTAL       | 2:00      |                           |
 
-# Why you should know this or industry application (optional) (5 min)
+## Why you should know this or industry application (optional) (5 min)
 
 Explain why students should care to learn the material presented in this class.
 
