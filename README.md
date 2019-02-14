@@ -62,8 +62,8 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 10 |  Wednesday, May 1                        | [Lesson 10] |
 | 11 |  Monday, May 6                           | [Lesson 11] |  
 | 12 |  Wednesday, May 8                        | [Lesson 12] |
-| 13 |  Monday, March 13                        | Final Class (presentations, etc) |
-| 14 |  Wednesday, March 15                     | Final Exams/Presentations |
+| 13 |  Monday, May 13                          | Final Class (presentations, etc) |
+| 14 |  Wednesday, May 15                       | Final Exams/Presentations |
 
 ### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
 **Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
@@ -84,8 +84,8 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 10 |  Thursday, May 2                         | [Lesson 10] |
 | 11 |  Tuesday, May 7                          | [Lesson 11] |  
 | 12 |  Thursday, May 9                         | [Lesson 12] |
-| 13 |  Tuesday, March 14                       | Final Class (presentations, etc) |
-| 14 |  Thursday, March 16                      | Final Exams/Presentations |
+| 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
+| 14 |  Thursday, May 16                        | Final Exams/Presentations |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
