@@ -111,6 +111,10 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 - [Do Cool Stuff Tutorial]()
 
 ### Projects
+
+- [Sample Project](Sample_Project.md)
+    -   [Sample Project Rubric](Sample_Rubric.md)
+
 **All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
@@ -126,10 +130,6 @@ We want to encourage best practices that you will see working as a professional 
 - It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
 
 Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-
-**[REWORD AS RELEVANT TO YOUR COURSE]** Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
-- [Sample Project](Sample_Project.md)
-    -   [Sample Project Rubric](Sample_Rubric.md)
 
 ### Other Class assignments
 
