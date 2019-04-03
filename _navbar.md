@@ -1,5 +1,3 @@
-<!-- _navbar.md -->
-
 *  **[Syllabus](README.md)**
-*  **[Tracker]()**
+*  **[Tracker](https://www.makeschool.com)**
 * [Make School](https://www.makeschool.com)
