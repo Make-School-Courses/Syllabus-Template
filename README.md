@@ -144,7 +144,7 @@ Through this requirement, we hope to encourage you to think about projects with 
 **[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials 
+- Complete all required assignments 
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
