@@ -10,7 +10,7 @@ Explain why students should care to learn the material presented in this class.
 
 ## Course Specifics
 
-Weeks to Completion:  7 <br>
+Weeks to Completion:  6 <br>
 Total Seat Hours:  37.5 hours <br>
 Total Out-of-Class Hours: 75 hours <br>
 Total Hours: 112.5 hours <br>
@@ -35,57 +35,54 @@ Students by the end of the course will be able to ...
 1. Design & Implement
 1. Practice
 
-
-
 ## Schedule
+
+**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
+
 ---
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE APRIL 1]**
+### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 27]**
 If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
 ---
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)
+### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
+**Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Lesson 1] |
-|  2 |  Wednesday, April 3                      | [Lesson 2] |
-|  3 |  Monday, April 8                         | [Lesson 3] |
-|  4 |  Wednesday, April 10                     | [Lesson 4] |
-|  5 |  Monday, April 15                        | [Lesson 5] |
-|  6 |  Wednesday, April 17                     | [Lesson 6] |
-|  7 |  Monday, April 22                        | [Lesson 7] |
-|  8 |  Wednesday, April 24                     | [Lesson 8] |
-|  9 |  Monday, April 29                        | [Lesson 9] |
-| 10 |  Wednesday, May 1                        | [Lesson 10] |
-| 11 |  Monday, May 6                           | [Lesson 11] |  
-| 12 |  Wednesday, May 8                        | [Lesson 12] |
-| 13 |  Monday, May 13                          | Final Class (presentations, etc) |
-| 14 |  Wednesday, May 15                       | Final Exams/Presentations |
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (11 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Lesson 1] |
-|  2 |  Thursday, April 4                       | [Lesson 2] |
-|  3 |  Tuesday, April 9                        | [Lesson 3] |
-|  4 |  Thursday, April 11                      | [Lesson 4] |
-|  5 |  Tuesday, April 16                       | [Lesson 5] |
-|  6 |  Thursday, April 18                      | [Lesson 6] |
-|  7 |  Tuesday, April 23                       | [Lesson 7] |
-|  8 |  Thursday, April 25                      | [Lesson 8] |
-|  9 |  Tuesday, April 30                       | [Lesson 9] |
-| 10 |  Thursday, May 2                         | [Lesson 10] |
-| 11 |  Tuesday, May 7                          | [Lesson 11] |  
-| 12 |  Thursday, May 9                         | [Lesson 12] |
-| 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
-| 14 |  Thursday, May 16                        | Final Exams/Presentations |
+|  - |  Monday, May 27                         | **Memorial Day** |
+|  1 |  Wednesday, May 29                      | [Lesson 1] |
+|  2 |  Monday, June 3                         | [Lesson 2] |
+|  3 |  Wednesday, June 5                     | [Lesson 3] |
+|  4 |  Monday, June 10                        | [Lesson 4] |
+|  5 |  Wednesday, June 12                     | [Lesson 5] |
+|  6 |  Monday, June 17                        | [Lesson 6] |
+|  7 |  Wednesday, June 19                     | [Lesson 7] |
+|  8 |  Monday, June 24                        | [Lesson 8] |
+| 9 |  Wednesday, June 26                        | [Lesson 9] |
+| 10 |  Monday, July 1                           | [Lesson 10] |  
+| 11 |  Wednesday, July 3                        | Final Exams/Presentations |
+
+
+### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
+**Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
+
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Tuesday, May 28                        | [Lesson 1] |
+|  2 |  Thursday, May 30                       | [Lesson 2] |
+|  3 |  Tuesday, June 4                        | [Lesson 3] |
+|  4 |  Thursday, June 6                      | [Lesson 4] |
+|  5 |  Tuesday, June 11                       | [Lesson 5] |
+|  6 |  Thursday, June 13                      | [Lesson 6] |
+|  7 |  Tuesday, June 18                       | [Lesson 7] |
+|  8 |  Thursday, June 20                      | [Lesson 8] |
+|  9 |  Tuesday, June 25                       | [Lesson 9] |
+| 10 |  Thursday, June 27                        | [Lesson 10] |
+| 11 |  Tuesday, July 2                       | Final Exams/Presentations |  
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
@@ -100,13 +97,12 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 
-## Class Assignments [REMOVE HEADER IF YOU LIKE]
+## Class Assignments
 - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
 - Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
-**[REWORD AS RELEVANT TO YOUR COURSE]** Tutorials are to help you get started in a topic.  They are graded on completion only.
 
 - [Do Cool Stuff Tutorial]()
 
