@@ -98,9 +98,6 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Lesson 12]: Lessons/Lesson12.md
 
 ## Class Assignments
-- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
-- Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
 
@@ -108,24 +105,8 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 ### Projects
 
-- [Sample Project](Sample_Project.md)
+- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
     -   [Sample Project Rubric](Sample_Rubric.md)
-
-**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
-
-- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
-- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
-
-#### Why are we doing this?
-
-We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
-
-- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
-- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
-- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
-
-Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
 
 ### Final Exam
 
@@ -133,8 +114,6 @@ Through this requirement, we hope to encourage you to think about projects with 
 - You will have 2 hours to complete this exam - it will be in class using paper and pencil, or a format of the instructor's choosing
 - There are no retakes of the exam.
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
-
-### Other Class assignments
 
 ## Evaluation
 **[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
