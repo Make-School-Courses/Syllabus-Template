@@ -54,14 +54,14 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  - |  Monday, May 27                         | **Memorial Day** |
 |  1 |  Wednesday, May 29                      | [Lesson 1] |
 |  2 |  Monday, June 3                         | [Lesson 2] |
-|  3 |  Wednesday, June 5                     | [Lesson 3] |
-|  4 |  Monday, June 10                        | [Lesson 4] |
-|  5 |  Wednesday, June 12                     | [Lesson 5] |
-|  6 |  Monday, June 17                        | [Lesson 6] |
-|  7 |  Wednesday, June 19                     | [Lesson 7] |
-|  8 |  Monday, June 24                        | [Lesson 8] |
-| 9 |  Wednesday, June 26                        | [Lesson 9] |
-| 10 |  Monday, July 1                           | [Lesson 10] |  
+|  3 |  Wednesday, June 5                     | [Lesson 3] / [Lesson 4] |
+|  4 |  Monday, June 10                        | [Lesson 5] |
+|  5 |  Wednesday, June 12                     | [Lesson 6] |
+|  6 |  Monday, June 17                        | [Lesson 7] / [Lesson 8] |
+|  7 |  Wednesday, June 19                     | [Lesson 9] |
+|  8 |  Monday, June 24                        | [Lesson 10] / [Lesson 11] |
+| 9 |  Wednesday, June 26                        | [Lesson 12] |
+| 10 |  Monday, July 1                           | [Lesson 13] |  
 | 11 |  Wednesday, July 3                        | Final Exams/Presentations |
 
 
@@ -74,14 +74,14 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tuesday, May 28                        | [Lesson 1] |
 |  2 |  Thursday, May 30                       | [Lesson 2] |
-|  3 |  Tuesday, June 4                        | [Lesson 3] |
-|  4 |  Thursday, June 6                      | [Lesson 4] |
-|  5 |  Tuesday, June 11                       | [Lesson 5] |
-|  6 |  Thursday, June 13                      | [Lesson 6] |
-|  7 |  Tuesday, June 18                       | [Lesson 7] |
-|  8 |  Thursday, June 20                      | [Lesson 8] |
-|  9 |  Tuesday, June 25                       | [Lesson 9] |
-| 10 |  Thursday, June 27                        | [Lesson 10] |
+|  3 |  Tuesday, June 4                        | [Lesson 3] / [Lesson 4] |
+|  4 |  Thursday, June 6                      | [Lesson 5] |
+|  5 |  Tuesday, June 11                       | [Lesson 6] |
+|  6 |  Thursday, June 13                      | [Lesson 7] / [Lesson 8] |
+|  7 |  Tuesday, June 18                       | [Lesson 9] |
+|  8 |  Thursday, June 20                      | [Lesson 10] / [Lesson 11] |
+|  9 |  Tuesday, June 25                       | [Lesson 12] |
+| 10 |  Thursday, June 27                        | [Lesson 13] |
 | 11 |  Tuesday, July 2                       | Final Exams/Presentations |  
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -96,6 +96,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
+[Lesson 13]: Lessons/Lesson13.md
 
 ## Class Assignments
 
