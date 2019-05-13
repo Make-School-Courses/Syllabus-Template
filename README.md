@@ -8,16 +8,6 @@ Describe your course here. A short elevator pitch for the course. This will be l
 
 Explain why students should care to learn the material presented in this class.
 
-## Course Specifics
-
-Weeks to Completion:  6 <br>
-Total Seat Hours:  37.5 hours <br>
-Total Out-of-Class Hours: 75 hours <br>
-Total Hours: 112.5 hours <br>
-Units:  3 units <br>
-Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs
-
 ## Prerequisites:  
 
 - [Prerequisite 1]()
