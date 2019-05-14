@@ -114,7 +114,8 @@ To pass this course you must meet the following requirements:
 
 [Academic Honesty](https://make.sc/academic-honesty)<br>
 [Disability Services (Academic Accommodations)](https://make.sc/disability-services)<br>
-[Attendance Policy](https://make.sc/attendance-policy)  
+[Attendance Policy](https://make.sc/attendance-policy)
+[Course Credit Policy](https://make.sc/course-credit-policy)
 [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement)<br>
 [Grading System](https://make.sc/grading-system)
 <br>
