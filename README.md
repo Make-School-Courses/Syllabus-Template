@@ -44,12 +44,12 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  - |  Mon, May 27                         | **Memorial Day** |
 |  1 |  Wed, May 29                      | [Lesson 1] |
 |  2 |  Mon, June 3                         | [Lesson 2] |
-|  3 |  Wed, June 5                     | [Lesson 3] / [Lesson 4] |
+|  3 |  Wed, June 5                     | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
 |  4 |  Mon, June 10                        | [Lesson 5] |
 |  5 |  Wed, June 12                     | [Lesson 6] |
-|  6 |  Mon, June 17                        | [Lesson 7] / [Lesson 8] |
+|  6 |  Mon, June 17                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
 |  7 |  Wed, June 19                     | [Lesson 9] |
-|  8 |  Mon, June 24                        | [Lesson 10] / [Lesson 11] |
+|  8 |  Mon, June 24                        | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
 | 9 |  Wed, June 26                        | [Lesson 12] |
 | 10 |  Mon, July 1                           | [Lesson 13] |  
 | 11 |  Wed, July 3                        | Final Exams/Presentations |
@@ -64,12 +64,12 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tu, May 28                        | [Lesson 1] |
 |  2 |  Th, May 30                       | [Lesson 2] |
-|  3 |  Tu, June 4                        | [Lesson 3] / [Lesson 4] |
+|  3 |  Tu, June 4                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
 |  4 |  Th, June 6                      | [Lesson 5] |
 |  5 |  Tu, June 11                       | [Lesson 6] |
-|  6 |  Th, June 13                      | [Lesson 7] / [Lesson 8] |
+|  6 |  Th, June 13                      | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
 |  7 |  Tu, June 18                       | [Lesson 9] |
-|  8 |  Th, June 20                      | [Lesson 10] / [Lesson 11] |
+|  8 |  Th, June 20                      | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
 |  9 |  Tu, June 25                       | [Lesson 12] |
 | 10 |  Th, June 27                        | [Lesson 13] |
 | 11 |  Tu, July 2                       | Final Exams/Presentations |  
