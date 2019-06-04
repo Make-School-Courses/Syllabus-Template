@@ -2,7 +2,7 @@
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
 
 ### Why you should know this (optional)
 
@@ -15,9 +15,9 @@ Explain why students should care to learn the material presented in this class.
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (5-8) LEARNING OUTCOMES]**
+**[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
 
-Students by the end of the course will be able to ...
+By the end of the course, you will be able to ...
 
 1. Identify & Describe
 1. Explain
@@ -27,7 +27,7 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
+**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
 
 ---
 ### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 27]**
