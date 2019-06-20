@@ -30,49 +30,51 @@ By the end of the course, you will be able to ...
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
 
 ---
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 27]**
+### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JULY 7]**
 If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
 ---
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
-**Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
+### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
+**Course Dates:** Wednesday, July 8 – Wednesday, August 14, 2019 (6 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (11 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 27                         | **Memorial Day** |
-|  1 |  Wed, May 29                      | [Lesson 1] |
-|  2 |  Mon, June 3                         | [Lesson 2] |
-|  3 |  Wed, June 5                     | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Mon, June 10                        | [Lesson 5] |
-|  5 |  Wed, June 12                     | [Lesson 6] |
-|  6 |  Mon, June 17                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Wed, June 19                     | [Lesson 9] |
-|  8 |  Mon, June 24                        | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-| 9 |  Wed, June 26                        | [Lesson 12] |
-| 10 |  Mon, July 1                           | [Lesson 13] |  
-| 11 |  Wed, July 3                        | Final Exams/Presentations |
-
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
-**Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (12 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [Lesson 1] |
-|  2 |  Th, May 30                       | [Lesson 2] |
-|  3 |  Tu, June 4                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Th, June 6                      | [Lesson 5] |
-|  5 |  Tu, June 11                       | [Lesson 6] |
-|  6 |  Th, June 13                      | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Tu, June 18                       | [Lesson 9] |
-|  8 |  Th, June 20                      | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-|  9 |  Tu, June 25                       | [Lesson 12] |
-| 10 |  Th, June 27                        | [Lesson 13] |
-| 11 |  Tu, July 2                       | Final Exams/Presentations |  
+|  1 |   Mon, July 8                          | [Lesson 1] |
+|  2 |   Wed, July 10                            | [Lesson 2] |
+|  3 |   Mon, July 15                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
+|  4 |   Wed, July 17                            | [Lesson 5] |
+|  5 |   Mon, July 22                         | [Lesson 6] |
+|  6 |   Wed, July 24                            | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
+|  7 |   Mon, July 29                         | [Lesson 9] |
+|  8 |   Wed, July 31                            | [Lesson 10] |
+| 9 |   Mon, August 5                           | [Lesson 11] |
+| 10 |   Wed, August 7                             | [Lesson 12] |  
+| 11 |   Mon, August 12                         | [Lesson 13]|
+| 12 |   Wed, August 14                         | Final Exam/Presentations  |
+
+
+### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
+**Course Dates:** Tuesday, July 9 – Thursday, August 15, 2019 (6 weeks)
+
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (12 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |   Tue, July 9                      | [Lesson 1] |
+|  2 |   Thu, July 11                        | [Lesson 2] |
+|  3 |   Tue, July 16                    | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
+|  4 |   Thu, July 18                        | [Lesson 5] |
+|  5 |   Tue, July 23                     | [Lesson 6] |
+|  6 |   Thu, July 25                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
+|  7 |   Tue, July 30                     | [Lesson 9] |
+|  8 |   Thu, August 1                        | [Lesson 10] |
+| 9 |   Tue, August 6                       | [Lesson 11] |
+| 10 |   Thu, August 8                         | [Lesson 12] |  
+| 11 |   Tue, August 13                     | [Lesson 13]|
+| 12 |   Thu, August 15                     | Final Exam/Presentations  |
+
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
@@ -100,7 +102,6 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
     -   [Sample Project Rubric](Sample_Rubric.md)
 
 ## Evaluation
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments 
