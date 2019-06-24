@@ -1,4 +1,4 @@
-# Lesson Title
+# Class - Lesson Title
 
 ## Minute-by-Minute [OPTIONAL]
 
