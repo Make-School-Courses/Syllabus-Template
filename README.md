@@ -101,7 +101,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 ### Projects
 
 - [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+    -   [Sample Project Rubric - Built Using Digital Rubrics Tool](https://www.makeschool.com/admin/rubrics)
 
 ## Evaluation
 ### **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
