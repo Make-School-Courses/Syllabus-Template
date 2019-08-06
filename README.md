@@ -15,7 +15,7 @@ Explain why students should care to learn the material presented in this class.
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
+### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
 
 By the end of the course, you will be able to ...
 
@@ -27,53 +27,55 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
-
 ---
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JULY 7]**
+### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE AUGUST 23]**
 If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
 ---
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
-**Course Dates:** Wednesday, July 8 – Wednesday, August 14, 2019 (6 weeks)
+### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE AUGUST 23]**
+**Course Dates:** Monday, August 26 – Wednesday, October 9, 2019 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (12 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, July 8                          | [Lesson 1] |
-|  2 |   Wed, July 10                            | [Lesson 2] |
-|  3 |   Mon, July 15                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |   Wed, July 17                            | [Lesson 5] |
-|  5 |   Mon, July 22                         | [Lesson 6] |
-|  6 |   Wed, July 24                            | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |   Mon, July 29                         | [Lesson 9] |
-|  8 |   Wed, July 31                            | [Lesson 10] |
-| 9 |   Mon, August 5                           | [Lesson 11] |
-| 10 |   Wed, August 7                             | [Lesson 12] |  
-| 11 |   Mon, August 12                         | [Lesson 13]|
-| 12 |   Wed, August 14                         | Final Exam/Presentations  |
-
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
-**Course Dates:** Tuesday, July 9 – Thursday, August 15, 2019 (6 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (12 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, July 9                      | [Lesson 1] |
-|  2 |   Thu, July 11                        | [Lesson 2] |
-|  3 |   Tue, July 16                    | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |   Thu, July 18                        | [Lesson 5] |
-|  5 |   Tue, July 23                     | [Lesson 6] |
-|  6 |   Thu, July 25                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |   Tue, July 30                     | [Lesson 9] |
-|  8 |   Thu, August 1                        | [Lesson 10] |
-| 9 |   Tue, August 6                       | [Lesson 11] |
-| 10 |   Thu, August 8                         | [Lesson 12] |  
-| 11 |   Tue, August 13                     | [Lesson 13]|
-| 12 |   Thu, August 15                     | Final Exam/Presentations  |
+|  1 |   Mon, Aug 26                          | [Lesson 1] |
+|  2 |   Wed, Aug 28                            | [Lesson 2] |
+|  - |   Mon, Sept 2                        | **NO CLASS** - Labor Day |
+|  3 |   Wed, Sept 4                            | [Lesson 3] |
+|  4 |   Mon, Sept 9                         | [Lesson 4] |
+|  5 |   Wed, Sept 11                            | [Lesson 5] |
+|  6 |   Mon, Sept 16                         | [Lesson 6] |
+|  7 |   Wed, Sept 18                            | [Lesson 7] |
+|  8 |   Mon, Sept 23                           | [Lesson 8] |
+|  9 |   Wed, Sept 25                             | [Lesson 9] |  
+| 10 |   Mon, Sept 30                         | [Lesson 10]|
+| 11 |   Wed, Oct 2                         | [Lesson 11]  |
+| 12 |   Mon, Oct 7                         |  [Lesson 12] |
+| 13 |   Wed, Oct 9                         | Final Exam/Presentations  |
+
+
+### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE AUGUST 23]**
+**Course Dates:** Tuesday, August 27 – Thursday, October 10, 2019 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |   Tue, Aug 27                          | [Lesson 1] |
+|  2 |   Thu, Aug 29                            | [Lesson 2] |
+|  3 |   Tue, Sept 3                        | [Lesson 3] |
+|  4 |   Thu, Sept 5                            | [Lesson 4] |
+|  5 |   Tue, Sept 10                         | [Lesson 5] |
+|  6 |   Thu, Sept 12                            | [Lesson 6] |
+|  7 |   Tue, Sept 17                         | [Lesson 7] |
+|  8 |   Thu, Sept 19                            | [Lesson 8] |
+|  9 |   Tue, Sept 24                           | [Lesson 9] |
+| 10 |   Thu, Sept 26                             | [Lesson 10] |  
+| 11 |   Tue, Oct 1                         | [Lesson 11]|
+| 12 |   Thu, Oct 3                         | [Lesson 12]  |
+| 13 |   Tue, Oct 8                         |  [Lesson 13] |
+| 14 |   Thu, Oct 3                         | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
