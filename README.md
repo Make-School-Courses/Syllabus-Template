@@ -75,7 +75,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 11 |   Tue, Oct 1                         | [Lesson 11]|
 | 12 |   Thu, Oct 3                         | [Lesson 12]  |
 | 13 |   Tue, Oct 8                         |  [Lesson 13] |
-| 14 |   Thu, Oct 3                         | Final Exam/Presentations |
+| 14 |   Thu, Oct 10                         | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
