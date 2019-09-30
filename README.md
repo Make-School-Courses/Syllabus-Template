@@ -33,9 +33,9 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 ---
 ### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
-**Course Dates:** Monday, October 21 – Wednesday, December 4, 2019 (7 weeks)
+**Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -52,13 +52,15 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 11 |   Mon, Nov 25                         | [Lesson 11]|
 | 12 |   Wed, Nov 27                         | **NO CLASS** - Thanksgiving  |
 | 13 |   Mon, Dec 2                         |  [Lesson 12] |
-| 14 |   Wed, Dec 4                         | Final Exam/Presentations  |
+| 14 |   Wed, Dec 4                         | [Lesson 13]  |
+| 15 |   Mon, Dec 9                         | [Lesson 14]  |
+| 16 |   Wed, Dec 11                         | Final Exam/Presentations  |
 
 
 ### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
-**Course Dates:** Tuesday, October 22 – Thursday, December 5, 2019 (7 weeks)
+**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (15 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -73,9 +75,11 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  9 |   Tue, Nov 19                          | [Lesson 9] |
 | 10 |   Thu, Nov 21                            | [Lesson 10] |  
 | 11 |   Tue, Nov 26                      | [Lesson 11]|
-| 12 |   Thu, Nov 28                      | [Lesson 12]  |
-| 13 |   Tue, Dec 3                       |  [Lesson 13] |
-| 14 |   Thu, Dec 5                        | Final Exam/Presentations |
+| 12 |   Thu, Nov 28                      | **NO CLASS** - Thanksgiving  |
+| 13 |   Tue, Dec 3                       |  [Lesson 12] |
+| 14 |   Thu, Dec 5                        | [Lesson 13] |
+| 15 |   Tue, Dec 10                         | [Lesson 14]  |
+| 16 |   Thu, Dec 12                         | Final Exam/Presentations  |
 
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -91,6 +95,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 [Lesson 13]: Lessons/Lesson13.md
+[Lesson 14]: Lessons/Lesson14.md
 
 ## Class Assignments
 
