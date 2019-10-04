@@ -1,8 +1,11 @@
 <!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Class - Lesson Title
 
-<aside class="notes">
-<!-- This part will only be visible in GitHub/GitHub Pages. -->
+<!-- Put a link to the slides so that students can find them -->
+
+➡️ [**Slides**](https://make-school-courses.github.io/Syllabus-Template/_static/Lesson1.html ':ignore')
+
+<!-- > -->
 
 ## Minute-by-Minute [OPTIONAL]
 
@@ -16,14 +19,12 @@
 | 1:45        | 0:05      | Wrap up review objectives |
 | TOTAL       | 1:50      | -                         |
 
-</aside>
 
 <!-- > -->
 
-## Prime the Pump (5 min)
+## Why you should know this or industry application (optional) (5 min)
 
-Ask students about something they learned in the previous class, or ask a
-relevant discussion question to today's content.
+Explain why students should care to learn the material presented in this class.
 
 <!-- > -->
 
@@ -36,10 +37,6 @@ relevant discussion question to today's content.
 
 <!-- > -->
 
-# Topic 1
-
-<!-- v -->
-
 ## Initial Exercise (15 min)
 
 - Funny comic
@@ -49,6 +46,10 @@ relevant discussion question to today's content.
 - Quiz on homework or topic(s) of past class
 - Concept Test
 
+<!-- > -->
+
+# Topic 1
+
 <!-- v -->
 
 ## Overview/TT I (20 min)
@@ -57,6 +58,10 @@ relevant discussion question to today's content.
 - Industry examples of usage
 - Best practices
 - Personal anecdote
+
+<aside class="notes">
+Place more detailed information or speaker notes in "aside" elements - it will appear in GitHub Pages but not in the slides.
+</aside>
 
 <!-- v -->
 
@@ -72,6 +77,11 @@ relevant discussion question to today's content.
 - Formative assessment
 - Form into groups
 - etc (get creative :D)
+
+<!-- > -->
+
+<!-- .slide: data-background="#087CB8" -->
+## [**10m**] BREAK
 
 <!-- > -->
 
