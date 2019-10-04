@@ -97,6 +97,17 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Lesson 13]: Lessons/Lesson13.md
 [Lesson 14]: Lessons/Lesson14.md
 
+## Assignment Schedule
+
+### **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
+
+|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+
 ## Class Assignments
 
 ### Tutorials
