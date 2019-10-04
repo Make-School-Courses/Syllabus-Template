@@ -1,0 +1,16 @@
+{
+  "separator": "^\n<!-- > -->\n",
+  "verticalSeparator": "^\n<!-- v -->\n",
+  "theme": "white",
+  "highlightTheme": "atom-one-light",
+  "watch": true,
+  "title": "BEW 1.1 Slides",
+  "static": "_static",
+  "scripts": [
+  ],
+  "assetsDir": "Images",
+  "staticDirs": "Images",
+  "css": [
+      "Reveal/makeschool.css"
+  ]
+}

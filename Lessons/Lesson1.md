@@ -1,4 +1,8 @@
+<!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Class - Lesson Title
+
+<aside class="notes">
+<!-- This part will only be visible in GitHub/GitHub Pages. -->
 
 ## Minute-by-Minute [OPTIONAL]
 
@@ -12,9 +16,16 @@
 | 1:45        | 0:05      | Wrap up review objectives |
 | TOTAL       | 1:50      | -                         |
 
-## Why you should know this or industry application (optional) (5 min)
+</aside>
 
-Explain why students should care to learn the material presented in this class.
+<!-- > -->
+
+## Prime the Pump (5 min)
+
+Ask students about something they learned in the previous class, or ask a
+relevant discussion question to today's content.
+
+<!-- > -->
 
 ## Learning Objectives (5 min)
 
@@ -22,6 +33,12 @@ Explain why students should care to learn the material presented in this class.
 1. Define
 1. Design
 1. Implement
+
+<!-- > -->
+
+# Topic 1
+
+<!-- v -->
 
 ## Initial Exercise (15 min)
 
@@ -32,12 +49,16 @@ Explain why students should care to learn the material presented in this class.
 - Quiz on homework or topic(s) of past class
 - Concept Test
 
+<!-- v -->
+
 ## Overview/TT I (20 min)
 
 - Why learn this?
 - Industry examples of usage
 - Best practices
 - Personal anecdote
+
+<!-- v -->
 
 ## In Class Activity I (30 min)
 
@@ -52,15 +73,27 @@ Explain why students should care to learn the material presented in this class.
 - Form into groups
 - etc (get creative :D)
 
+<!-- > -->
+
+# Topic 2
+
+<!-- v -->
+
 ## Overview/TT II (optional) (20 min)
 
+<!-- v -->
+
 ## In Class Activity II (optional) (30 min)
+
+<!-- > -->
 
 ## Wrap Up (5 min)
 
 - Continue working on your current tutorial
 - Complete reading
 - Complete challenges
+
+<!-- > -->
 
 ## Additional Resources
 
