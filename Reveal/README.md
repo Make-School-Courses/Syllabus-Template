@@ -1,13 +1,21 @@
-# How to Use Reveal-md Slides
+# reveal-md
 
-To generate slides locally:
+## Installation:
+
+```bash
+npm install -g reveal-md
+```
+
+Usage:
 
 ```bash
 $ reveal-md Lessons/
 ```
 
-To generate static content for GitHub Pages:
+Generate static HTML (for GitHub Pages):
 
 ```bash
 $ reveal-md Lessons/ --static Slides
 ```
+
+For more information, check out the [reveal-md documentation](https://github.com/webpro/reveal-md).
