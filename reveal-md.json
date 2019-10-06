@@ -5,11 +5,11 @@
   "highlightTheme": "atom-one-light",
   "watch": true,
   "title": "BEW 1.1 Slides",
-  "static": "_static",
+  "static": "Slides",
   "scripts": [
   ],
-  "assetsDir": "Images",
-  "staticDirs": "Images",
+  "assetsDir": "assets",
+  "staticDirs": "Lessons/Images",
   "css": [
       "Reveal/makeschool.css"
   ]
