@@ -3,7 +3,7 @@
 
 <!-- Put a link to the slides so that students can find them -->
 
-➡️ [**Slides**](https://make-school-courses.github.io/Syllabus-Template/_static/Lesson1.html ':ignore')
+➡️ [**Slides**](https://make-school-courses.github.io/Syllabus-Template/Slides/Lesson1.html ':ignore')
 
 <!-- > -->
 
