@@ -1,4 +1,11 @@
+<!-- .slide: data-background="./Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Class - Lesson Title
+
+<!-- Put a link to the slides so that students can find them -->
+
+➡️ [**Slides**](/Syllabus-Template/Slides/Lesson1.html ':ignore')
+
+<!-- > -->
 
 ## Minute-by-Minute [OPTIONAL]
 
@@ -12,9 +19,14 @@
 | 1:45        | 0:05      | Wrap up review objectives |
 | TOTAL       | 1:50      | -                         |
 
+
+<!-- > -->
+
 ## Why you should know this or industry application (optional) (5 min)
 
 Explain why students should care to learn the material presented in this class.
+
+<!-- > -->
 
 ## Learning Objectives (5 min)
 
@@ -22,6 +34,8 @@ Explain why students should care to learn the material presented in this class.
 1. Define
 1. Design
 1. Implement
+
+<!-- > -->
 
 ## Initial Exercise (15 min)
 
@@ -32,12 +46,24 @@ Explain why students should care to learn the material presented in this class.
 - Quiz on homework or topic(s) of past class
 - Concept Test
 
+<!-- > -->
+
+# Topic 1
+
+<!-- v -->
+
 ## Overview/TT I (20 min)
 
 - Why learn this?
 - Industry examples of usage
 - Best practices
 - Personal anecdote
+
+<aside class="notes">
+Place more detailed information or speaker notes in "aside" elements - it will appear in GitHub Pages but not in the slides.
+</aside>
+
+<!-- v -->
 
 ## In Class Activity I (30 min)
 
@@ -52,15 +78,32 @@ Explain why students should care to learn the material presented in this class.
 - Form into groups
 - etc (get creative :D)
 
+<!-- > -->
+
+<!-- .slide: data-background="#087CB8" -->
+## [**10m**] BREAK
+
+<!-- > -->
+
+# Topic 2
+
+<!-- v -->
+
 ## Overview/TT II (optional) (20 min)
 
+<!-- v -->
+
 ## In Class Activity II (optional) (30 min)
+
+<!-- > -->
 
 ## Wrap Up (5 min)
 
 - Continue working on your current tutorial
 - Complete reading
 - Complete challenges
+
+<!-- > -->
 
 ## Additional Resources
 
