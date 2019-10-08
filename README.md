@@ -50,11 +50,11 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  9 |   Mon, Nov 18                           | [Lesson 9] |
 | 10 |   Wed, Nov 20                             | [Lesson 10] |  
 | 11 |   Mon, Nov 25                         | [Lesson 11]|
-| 12 |   Wed, Nov 27                         | **NO CLASS** - Thanksgiving  |
-| 13 |   Mon, Dec 2                         |  [Lesson 12] |
-| 14 |   Wed, Dec 4                         | [Lesson 13]  |
-| 15 |   Mon, Dec 9                         | [Lesson 14]  |
-| 16 |   Wed, Dec 11                         | Final Exam/Presentations  |
+| - |   Wed, Nov 27                         | **NO CLASS** - Thanksgiving  |
+| 12 |   Mon, Dec 2                         |  [Lesson 12] |
+| 13 |   Wed, Dec 4                         | [Lesson 13]  |
+| 14 |   Mon, Dec 9                         | [Lesson 14]  |
+| 15 |   Wed, Dec 11                         | Final Exam/Presentations  |
 
 
 ### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
@@ -75,11 +75,11 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  9 |   Tue, Nov 19                          | [Lesson 9] |
 | 10 |   Thu, Nov 21                            | [Lesson 10] |  
 | 11 |   Tue, Nov 26                      | [Lesson 11]|
-| 12 |   Thu, Nov 28                      | **NO CLASS** - Thanksgiving  |
-| 13 |   Tue, Dec 3                       |  [Lesson 12] |
-| 14 |   Thu, Dec 5                        | [Lesson 13] |
-| 15 |   Tue, Dec 10                         | [Lesson 14]  |
-| 16 |   Thu, Dec 12                         | Final Exam/Presentations  |
+| - |   Thu, Nov 28                      | **NO CLASS** - Thanksgiving  |
+| 12 |   Tue, Dec 3                       |  [Lesson 12] |
+| 13 |   Thu, Dec 5                        | [Lesson 13] |
+| 14 |   Tue, Dec 10                         | [Lesson 14]  |
+| 15 |   Thu, Dec 12                         | Final Exam/Presentations  |
 
 
 [Lesson 1]: Lessons/Lesson1.md
