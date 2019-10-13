@@ -28,58 +28,59 @@ By the end of the course, you will be able to ...
 ## Schedule
 
 ---
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE OCTOBER 18]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
+**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE OCTOBER 18]**
+If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 ---
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+
+M/W Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
 **Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
 
 **Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Oct 21                          | [Lesson 1] |
-|  2 |   Wed, Oct 23                            | [Lesson 2] |
-|  3 |   Mon, Oct 28                        | [Lesson 3] |
-|  4 |   Wed, Oct 30                            | [Lesson 4] |
-|  5 |   Mon, Nov 4                         | [Lesson 5] |
-|  6 |   Wed, Nov 6                            | [Lesson 6] |
-|  7 |   Mon, Nov 11                         | [Lesson 7] |
-|  8 |   Wed, Nov 13                            | [Lesson 8] |
-|  9 |   Mon, Nov 18                           | [Lesson 9] |
-| 10 |   Wed, Nov 20                             | [Lesson 10] |  
-| 11 |   Mon, Nov 25                         | [Lesson 11]|
-| - |   Wed, Nov 27                         | **NO CLASS** - Thanksgiving  |
-| 12 |   Mon, Dec 2                         |  [Lesson 12] |
-| 13 |   Wed, Dec 4                         | [Lesson 13]  |
-| 14 |   Mon, Dec 9                         | [Lesson 14]  |
-| 15 |   Wed, Dec 11                         | Final Exam/Presentations  |
+|  1 |   Mon, Oct 21             | [Lesson 1] |
+|  2 |   Wed, Oct 23             | [Lesson 2] |
+|  3 |   Mon, Oct 28             | [Lesson 3] |
+|  4 |   Wed, Oct 30             | [Lesson 4] |
+|  5 |   Mon, Nov 4              | [Lesson 5] |
+|  6 |   Wed, Nov 6              | [Lesson 6] |
+|  7 |   Mon, Nov 11             | [Lesson 7] |
+|  8 |   Wed, Nov 13             | [Lesson 8] |
+|  9 |   Mon, Nov 18             | [Lesson 9] |
+| 10 |   Wed, Nov 20             | [Lesson 10] |  
+| 11 |   Mon, Nov 25             | [Lesson 11]|
+| -  |   Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
+| 12 |   Mon, Dec 2              | [Lesson 12] |
+| 13 |   Wed, Dec 4              | [Lesson 13]  |
+| 14 |   Mon, Dec 9              | [Lesson 14]  |
+| 15 |   Wed, Dec 11             | Final Exam/Presentations  |
 
 
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
 **Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
 **Class Times:** Tuesday and Thursday at 3:30–5:20pm (15 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Oct 22                        | [Lesson 1] |
-|  2 |   Thu, Oct 24                          | [Lesson 2] |
-|  3 |   Tue, Oct 29                      | [Lesson 3] |
-|  4 |   Thu, Oct 31                          | [Lesson 4] |
-|  5 |   Tue, Nov 5                         | [Lesson 5] |
-|  6 |   Thu, Nov 7                            | [Lesson 6] |
-|  7 |   Tue, Nov 12                        | [Lesson 7] |
-|  8 |   Thu, Nov 14                           | [Lesson 8] |
-|  9 |   Tue, Nov 19                          | [Lesson 9] |
-| 10 |   Thu, Nov 21                            | [Lesson 10] |  
-| 11 |   Tue, Nov 26                      | [Lesson 11]|
-| - |   Thu, Nov 28                      | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3                       |  [Lesson 12] |
-| 13 |   Thu, Dec 5                        | [Lesson 13] |
-| 14 |   Tue, Dec 10                         | [Lesson 14]  |
-| 15 |   Thu, Dec 12                         | Final Exam/Presentations  |
+|  1 |   Tue, Oct 22             | [Lesson 1] |
+|  2 |   Thu, Oct 24             | [Lesson 2] |
+|  3 |   Tue, Oct 29             | [Lesson 3] |
+|  4 |   Thu, Oct 31             | [Lesson 4] |
+|  5 |   Tue, Nov 5              | [Lesson 5] |
+|  6 |   Thu, Nov 7              | [Lesson 6] |
+|  7 |   Tue, Nov 12             | [Lesson 7] |
+|  8 |   Thu, Nov 14             | [Lesson 8] |
+|  9 |   Tue, Nov 19             | [Lesson 9] |
+| 10 |   Thu, Nov 21             | [Lesson 10] |  
+| 11 |   Tue, Nov 26             | [Lesson 11]|
+| -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
+| 12 |   Tue, Dec 3              |  [Lesson 12] |
+| 13 |   Thu, Dec 5              | [Lesson 13] |
+| 14 |   Tue, Dec 10             | [Lesson 14]  |
+| 15 |   Thu, Dec 12             | Final Exam/Presentations  |
 
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -99,7 +100,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 ## Assignment Schedule
 
-### **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
+**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
@@ -119,7 +120,8 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 - [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
 
 ## Evaluation
-### **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
+
+**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments 
