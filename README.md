@@ -30,10 +30,13 @@ By the end of the course, you will be able to ...
 ---
 
 **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE OCTOBER 18]**
+
 If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
+
 ---
 
-M/W Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+**M/W Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+
 **Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (8 weeks)
 
 **Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
@@ -58,7 +61,8 @@ M/W Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
 | 15 |   Wed, Dec 11             | Final Exam/Presentations  |
 
 
-Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+
 **Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
 **Class Times:** Tuesday and Thursday at 3:30–5:20pm (15 class sessions)
@@ -122,6 +126,7 @@ Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
 ## Evaluation
 
 **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
+
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments 
