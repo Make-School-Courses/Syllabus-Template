@@ -1,5 +1,7 @@
 # Title
 
+### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
+
 ## Course Description
 
 Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
