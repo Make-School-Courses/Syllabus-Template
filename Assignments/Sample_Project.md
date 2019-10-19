@@ -10,7 +10,7 @@ A short description that hits home as to why this assignment is important to do.
 
 ## Project requirements
 
-Descirbe the requirements of this assignment.
+Describe the requirements of this assignment.
 
 ### Deliverable
 

@@ -98,7 +98,7 @@ Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
 [Lesson 13]: Lessons/Lesson13.md
 [Lesson 14]: Lessons/Lesson14.md
 
-## Assignment Schedule
+## Assignment Schedule 
 
 **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
 
