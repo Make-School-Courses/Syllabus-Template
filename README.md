@@ -69,20 +69,20 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tuesday, January 21               | [Lesson 1] |
-|  2 |  Thursday, January 23               | [Lesson 2] |
-|  3 |   Tuesday, January 28               | [Lesson 3] |
-|  4 |  Thursday, January 30               | [Lesson 4] |
-|  5 |   Tuesday, February 4               | [Lesson 5] |
-|  6 |  Thursday, February 6               | [Lesson 6] |
-|  7 |   Tuesday, February 11              | [Lesson 7] |
-|  8 |  Thursday, February 13              | [Lesson 8] |
-|  - |   Tuesday, February 18              | **NO CLASS** - President's Day |
-|  9 |  Thursday, February 20              | [Lesson 9] |  
-| 10 |    Tuesday, February 25             | [Lesson 10]|
-| 11 |   Thursday, February 27             | [Lesson 11]|
-| 12 |    Tuesday, March 3                 | [Lesson 12]|
-| 13 |   Thursday, March 5                 | Final Exam/Presentations |
+|  1 |  Tuesday, January 21               | [Lesson 1] |
+|  2 |  Thursday, January 23              | [Lesson 2] |
+|  3 |  Tuesday, January 28               | [Lesson 3] |
+|  4 |  Thursday, January 30              | [Lesson 4] |
+|  5 |  Tuesday, February 4               | [Lesson 5] |
+|  6 |  Thursday, February 6              | [Lesson 6] |
+|  7 |  Tuesday, February 11              | [Lesson 7] |
+|  8 |  Thursday, February 13             | [Lesson 8] |
+|  - |  Tuesday, February 18              | **NO CLASS** - President's Day |
+|  9 |  Thursday, February 20             | [Lesson 9] |  
+| 10 |  Tuesday, February 25              | [Lesson 10]|
+| 11 |  hursday, February 27              | [Lesson 11]|
+| 12 |  Tuesday, March 3                  | [Lesson 12]|
+| 13 |  Thursday, March 5                 | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
