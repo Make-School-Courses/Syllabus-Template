@@ -31,13 +31,13 @@ By the end of the course, you will be able to ...
 
 ---
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE OCTOBER 18]**
+**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JANUARY 19]**
 
 If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
 ---
 
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+**M/W Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 19]**
 
 **Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
@@ -61,7 +61,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 12 |  Wed, March 4                  | Final Exam/Presentations |
 
 
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 18]**
+**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 19]**
 
 **Course Dates:** Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
 
@@ -70,14 +70,14 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, January 21               | [Lesson 1] |
-|  2 |  Thu, January 23               | [Lesson 2] |
-|  3 |  Tue, January 28               | [Lesson 3] |
-|  4 |  Thu, January 30               | [Lesson 4] |
-|  5 |  Tue, February 4               | [Lesson 5] |
-|  6 |  Thu, February 6               | [Lesson 6] |
-|  7 |  Tue, February 11              | [Lesson 7] |
-|  8 |  Thu, February 13              | [Lesson 8] |
-|  - |  Tue, February 18              | **NO CLASS** - President's Day |
+|  - |  Thu, January 23               | **NO CLASS** - Company Offsite |
+|  2 |  Tue, January 28               | [Lesson 2] |
+|  3 |  Thu, January 30               | [Lesson 3] |
+|  4 |  Tue, February 4               | [Lesson 4] |
+|  5 |  Thu, February 6               | [Lesson 5] |
+|  6 |  Tue, February 11              | [Lesson 6] |
+|  7 |  Thu, February 13              | [Lesson 7] |
+|  8 |  Tue, February 18              | [Lesson 8] |
 |  9 |  Thu, February 20              | [Lesson 9] |  
 | 10 |  Tue, February 25              | [Lesson 10]|
 | 11 |  Thu, February 27              | [Lesson 11]|
