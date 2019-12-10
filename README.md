@@ -41,7 +41,7 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 **Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (12 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -53,36 +53,36 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  5 |  Wed, February 5               | [Lesson 5] |
 |  6 |  Mon, February 10              | [Lesson 6] |
 |  7 |  Wed, February 12              | [Lesson 7] |
-|  - |  Mon, February 17              | **NO CLASS** - President's Day |
-|  8 |  Wed, February 19              | [Lesson 8] |
-|  9 |  Mon, February 24              | [Lesson 9] |  
-| 10 |  Wed, February 26              | [Lesson 10]|
-| 11 |  Mon, March 2                  | [Lesson 11] |
-| 12 |  Wed, March 4                  | Final Exam/Presentations |
+|  8 |  Mon, February 17              | [Lesson 8] |
+|  9 |  Wed, February 19              | [Lesson 9] |
+| 10 |  Mon, February 24              | [Lesson 10]|  
+| 11 |  Wed, February 26              | [Lesson 11]|
+| 12 |  Mon, March 2                  | [Lesson 12] |
+| 13 |  Wed, March 4                  | Final Exam/Presentations |
 
 
 **Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 19]**
 
 **Course Dates:** Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, January 21               | [Lesson 1] |
-|  - |  Thu, January 23               | **NO CLASS** - Company Offsite |
-|  2 |  Tue, January 28               | [Lesson 2] |
-|  3 |  Thu, January 30               | [Lesson 3] |
-|  4 |  Tue, February 4               | [Lesson 4] |
-|  5 |  Thu, February 6               | [Lesson 5] |
-|  6 |  Tue, February 11              | [Lesson 6] |
-|  7 |  Thu, February 13              | [Lesson 7] |
-|  8 |  Tue, February 18              | [Lesson 8] |
-|  9 |  Thu, February 20              | [Lesson 9] |  
-| 10 |  Tue, February 25              | [Lesson 10]|
-| 11 |  Thu, February 27              | [Lesson 11]|
-| 12 |  Tue, March 3                  | [Lesson 12]|
-| 13 |  Thu, March 5                  | Final Exam/Presentations |
+|  2 |  Thu, January 23               | [Lesson 2] |
+|  3 |  Tue, January 28               | [Lesson 3] |
+|  4 |  Thu, January 30               | [Lesson 4] |
+|  5 |  Tue, February 4               | [Lesson 5] |
+|  6 |  Thu, February 6               | [Lesson 6] |
+|  7 |  Tue, February 11              | [Lesson 7] |
+|  8 |  Thu, February 13              | [Lesson 8] |
+|  9 |  Tue, February 18              | [Lesson 9] |
+| 10 |  Thu, February 20              | [Lesson 10]|  
+| 11 |  Tue, February 25              | [Lesson 11]|
+| 12 |  Thu, February 27              | [Lesson 12]|
+| 13 |  Tue, March 3                  | [Lesson 13]|
+| 14 |  Thu, March 5                  | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
