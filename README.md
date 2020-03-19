@@ -31,58 +31,58 @@ By the end of the course, you will be able to ...
 
 ---
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JANUARY 19]**
+**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MARCH 27]**
 
 If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
 ---
 
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 19]**
+**M/W Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 27]**
 
-**Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
+**Course Dates:** Monday, March 30 – Wednesday, May 13, 2020 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
-|  1 |  Wed, January 22               | [Lesson 1] |
-|  2 |  Mon, January 27               | [Lesson 2] |
-|  3 |  Wed, January 29               | [Lesson 3] |
-|  4 |  Mon, February 3               | [Lesson 4] |
-|  5 |  Wed, February 5               | [Lesson 5] |
-|  6 |  Mon, February 10              | [Lesson 6] |
-|  7 |  Wed, February 12              | [Lesson 7] |
-|  8 |  Mon, February 17              | [Lesson 8] |
-|  9 |  Wed, February 19              | [Lesson 9] |
-| 10 |  Mon, February 24              | [Lesson 10]|  
-| 11 |  Wed, February 26              | [Lesson 11]|
-| 12 |  Mon, March 2                  | [Lesson 12] |
-| 13 |  Wed, March 4                  | Final Exam/Presentations |
-
-
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 19]**
-
-**Course Dates:** Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Monday and Wednesday at 2:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, January 21               | [Lesson 1] |
-|  2 |  Thu, January 23               | [Lesson 2] |
-|  3 |  Tue, January 28               | [Lesson 3] |
-|  4 |  Thu, January 30               | [Lesson 4] |
-|  5 |  Tue, February 4               | [Lesson 5] |
-|  6 |  Thu, February 6               | [Lesson 6] |
-|  7 |  Tue, February 11              | [Lesson 7] |
-|  8 |  Thu, February 13              | [Lesson 8] |
-|  9 |  Tue, February 18              | [Lesson 9] |
-| 10 |  Thu, February 20              | [Lesson 10]|  
-| 11 |  Tue, February 25              | [Lesson 11]|
-| 12 |  Thu, February 27              | [Lesson 12]|
-| 13 |  Tue, March 3                  | [Lesson 13]|
-| 14 |  Thu, March 5                  | Final Exam/Presentations |
+|  1 |  Mon, March 30               | [Lesson 1] |
+|  2 |  Wed, April 1               | [Lesson 2] |
+|  3 |  Mon, April 6               | [Lesson 3] |
+|  4 |  Wed, April 8               | [Lesson 4] |
+|  5 |  Mon, April 13               | [Lesson 5] |
+|  6 |  Wed, April 15              | [Lesson 6] |
+|  7 |  Mon, April 20              | [Lesson 7] |
+|  8 |  Wed, April 22              | [Lesson 8] |
+|  9 |  Mon, April 27              | [Lesson 9] |
+| 10 |  Wed, April 29              | [Lesson 10]|  
+| 11 |  Mon, May 4              | [Lesson 11]|
+| 12 |  Wed, May 6                  | [Lesson 12] |
+| 13 |  Mon, May 11                  | [Lesson 13] |
+| 14 |  Wed, May 13                  | Final Exam/Presentations |
+
+
+**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 27]**
+
+**Course Dates:** Tuesday, March 31 – Thursday, May 14, 2020 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 2:30–5:20pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  - |  Tue, March 31               | **NO CLASS - Ceasar Chavez Day** |
+|  1 |  Thu, April 2               | [Lesson 1] |
+|  2 |  Tue, April 7               | [Lesson 2] |
+|  3 |  Thu, April 9              | [Lesson 3] |
+|  4 |  Tue, April 14               | [Lesson 4] |
+|  5 |  Thu, April 16               | [Lesson 5] |
+|  6 |  Tue, April 21              | [Lesson 6] |
+|  7 |  Thu, April 23              | [Lesson 7] |
+|  8 |  Tue, April 28              | [Lesson 8] |
+| 19 |  Thu, April 30              | [Lesson 9]|  
+| 10 |  Tue, May 5               | [Lesson 10]|
+| 11 |  Thu, May 7              | [Lesson 11]|
+| 12 |  Tue, May 12                  | [Lesson 12]|
+| 13 |  Thu, May 14                  | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
