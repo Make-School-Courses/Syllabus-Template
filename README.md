@@ -39,50 +39,50 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 **M/W Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 27]**
 
-**Course Dates:** Monday, March 30 – Wednesday, May 13, 2020 (7 weeks)
+**Course Dates:** Monday, June 1 – Wednesday, July 15, 2020 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 2:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, March 30               | [Lesson 1] |
-|  2 |  Wed, April 1               | [Lesson 2] |
-|  3 |  Mon, April 6               | [Lesson 3] |
-|  4 |  Wed, April 8               | [Lesson 4] |
-|  5 |  Mon, April 13               | [Lesson 5] |
-|  6 |  Wed, April 15              | [Lesson 6] |
-|  7 |  Mon, April 20              | [Lesson 7] |
-|  8 |  Wed, April 22              | [Lesson 8] |
-|  9 |  Mon, April 27              | [Lesson 9] |
-| 10 |  Wed, April 29              | [Lesson 10]|  
-| 11 |  Mon, May 4              | [Lesson 11]|
-| 12 |  Wed, May 6                  | [Lesson 12] |
-| 13 |  Mon, May 11                  | [Lesson 13] |
-| 14 |  Wed, May 13                  | Final Exam/Presentations |
+|  1 |  Mon, June 1               | [Lesson 1] |
+|  2 |  Wed, June 3               | [Lesson 2] |
+|  3 |  Mon, June 8               | [Lesson 3] |
+|  4 |  Wed, June 10               | [Lesson 4] |
+|  5 |  Mon, June 15               | [Lesson 5] |
+|  6 |  Wed, June 17              | [Lesson 6] |
+|  7 |  Mon, June 22              | [Lesson 7] |
+|  8 |  Wed, June 24              | [Lesson 8] |
+|  9 |  Mon, June 29              | [Lesson 9] |
+| 10 |  Wed, July 1              | [Lesson 10]|  
+| 11 |  Mon, July 6              | [Lesson 11]|
+| 12 |  Wed, July 8                 | [Lesson 12] |
+| 13 |  Mon, July 13                  | [Lesson 13] |
+| 14 |  Wed, July 15                 | Final Exam/Presentations |
 
 
 **Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 27]**
 
-**Course Dates:** Tuesday, March 31 – Thursday, May 14, 2020 (7 weeks)
+**Course Dates:** Tuesday, June 2 – Thursday, July 16, 2020 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 2:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, March 31               | [Lesson 1] |
-|  2 |  Thu, April 2               | [Lesson 2] |
-|  3 |  Tue, April 7               | [Lesson 3] |
-|  4 |  Thu, April 9              | [Lesson 4] |
-|  5 |  Tue, April 14               | [Lesson 5] |
-|  6 |  Thu, April 16               | [Lesson 6] |
-|  7 |  Tue, April 21              | [Lesson 7] |
-|  8 |  Thu, April 23              | [Lesson 8] |
-|  9 |  Tue, April 28              | [Lesson 9] |
-| 10 |  Thu, April 30              | [Lesson 10]|  
-| 11 |  Tue, May 5               | [Lesson 11]|
-| 12 |  Thu, May 7              | [Lesson 12]|
-| 13 |  Tue, May 12                  | [Lesson 13]|
-| 14 |  Thu, May 14                  | Final Exam/Presentations |
+|  1 |  Tue, June 2                  | [Lesson 1] |
+|  2 |  Thu, June 4                 | [Lesson 2] |
+|  3 |  Tue, June 9                 | [Lesson 3] |
+|  4 |  Thu, June 11               | [Lesson 4] |
+|  5 |  Tue, June 16                 | [Lesson 5] |
+|  6 |  Thu, June 18                 | [Lesson 6] |
+|  7 |  Tue, June 23                | [Lesson 7] |
+|  8 |  Thu, June 25                | [Lesson 8] |
+|  9 |  Tue, June 30                | [Lesson 9] |
+| 10 |  Thu, July 2                 | [Lesson 10]|  
+| 11 |  Tue, July 7               | [Lesson 11]|
+| 12 |  Thu, July 9              | [Lesson 12]|
+| 13 |  Tue, July 14                  | [Lesson 13]|
+| 14 |  Thu, July 16                  | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
