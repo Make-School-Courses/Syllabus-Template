@@ -31,65 +31,59 @@ By the end of the course, you will be able to ...
 
 ---
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JUNE 1]**
+**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE AUGUST 17]**
 
-If you teach **M/W/F** or **Tu/Th**, please pick from a template below and delete the other one
+If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
 ---
 
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE JUNE 1]**
+**M/W Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
 
-**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
+**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
 
-**Class Times:** Monday, Wednesday, and Friday at 9:30–11:20am (20 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, June 1               | [Lesson 1] |
-|  2 |  Wed, June 3               | [Lesson 2] |
-|  3 |  Fri, June 5               | [Lesson 3] |
-|  4 |  Mon, June 8               | [Lesson 3] |
-|  5 |  Wed, June 10               | [Lesson 4] |
-|  6 |  Fri, June 12               | [Lesson 5] |
-|  7 |  Mon, June 15               | [Lesson 5] |
-|  8 |  Wed, June 17              | [Lesson 6] |
-|  9 |  Fri, June 19              | [Lesson 7] |
-| 10 |  Mon, June 22              | [Lesson 7] |
-| 11 |  Wed, June 24              | [Lesson 8] |
-| 12 |  Fri, June 26              | [Lesson 9] |
-| 13 |  Mon, June 29              | [Lesson 9] |
-| 14 |  Wed, July 1              | [Lesson 10]|  
-| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
-| 15 |  Mon, July 6              | [Lesson 11]|
-| 16 |  Wed, July 8                 | [Lesson 12] |
-| 17 |  Fri, July 10                  | [Lesson 13] |
-| 18 |  Mon, July 13                  | [Lesson 13] |
-| 19 |  Wed, July 15                 | [Lesson 13] |
-| 20 |  Fri, July 17                 | Final Exam/Presentations |
-
-
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE JUNE 1]**
-
-**Course Dates:** Tuesday, June 2 – Thursday, July 16, 2020 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 2:30–5:20pm (14 class sessions)
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (15 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 2                  | [Lesson 1] |
-|  2 |  Thu, June 4                 | [Lesson 2] |
-|  3 |  Tue, June 9                 | [Lesson 3] |
-|  4 |  Thu, June 11               | [Lesson 4] |
-|  5 |  Tue, June 16                 | [Lesson 5] |
-|  6 |  Thu, June 18                 | [Lesson 6] |
-|  7 |  Tue, June 23                | [Lesson 7] |
-|  8 |  Thu, June 25                | [Lesson 8] |
-|  9 |  Tue, June 30                | [Lesson 9] |
-| 10 |  Thu, July 2                 | [Lesson 10]|  
-| 11 |  Tue, July 7               | [Lesson 11]|
-| 12 |  Thu, July 9              | [Lesson 12]|
-| 13 |  Tue, July 14                  | [Lesson 13]|
-| 14 |  Thu, July 16                  | Final Exam/Presentations |
+|  1 |  Wed, Aug 19               | [Lesson 1] |
+|  2 |  Mon, Aug 24               | [Lesson 2] |
+|  3 |  Wed, Aug 26               | [Lesson 3] |
+|  4 |  Mon, Aug 31               | [Lesson 4] |
+|  5 |  Wed, Sept 2               | [Lesson 5] |
+|  6 |  Mon, Sept 7               | [Lesson 6] |
+|  7 |  Wed, Sept 9               | [Lesson 7] |
+|  8 |  Mon, Sept 14              | [Lesson 8] |
+|  9 |  Wed, Sept 16              | [Lesson 9] |
+| 10 |  Mon, Sept 21              | [Lesson 10] |
+| 11 |  Wed, Sept 23              | [Lesson 11] |
+| 12 |  Mon, Sept 28              | [Lesson 12] |
+| 13 |  Wed, Sept 30              | [Lesson 13] |
+| 14 |  Mon, Oct 5                | [Lesson 14] |  
+| 15 |  Wed, Oct 7                | Final Exam/Presentations |
+
+
+**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
+
+**Course Dates:** Thursday, August 20 – Tuesday, October 6, 2020 (7 weeks)
+
+**Class Times:** Tuesday and Thursday at 2:30–5:15pm (14 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Thu, Aug 20               | [Lesson 1] |
+|  2 |  Tue, Aug 25               | [Lesson 2] |
+|  3 |  Thu, Aug 27               | [Lesson 3] |
+|  4 |  Tue, Sept 1               | [Lesson 4] |
+|  5 |  Thu, Sept 3               | [Lesson 5] |
+|  6 |  Tue, Sept 8               | [Lesson 6] |
+|  7 |  Thu, Sept 10               | [Lesson 7] |
+|  8 |  Tue, Sept 15              | [Lesson 8] |
+|  9 |  Thu, Sept 17              | [Lesson 9] |
+| 10 |  Tue, Sept 22              | [Lesson 10] |
+| 11 |  Thu, Sept 24              | [Lesson 11] |
+| 12 |  Tue, Sept 29              | [Lesson 12] |
+| 13 |  Thu, Oct 1              | [Lesson 13] |
+| 14 |  Tue, Oct 6                | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -145,8 +139,8 @@ To pass this course you must meet the following requirements:
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
