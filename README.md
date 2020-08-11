@@ -33,7 +33,7 @@ By the end of the course, you will be able to ...
 
 **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE AUGUST 17]**
 
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
+Please pick from a template below and delete the other ones
 
 ---
 
@@ -50,16 +50,16 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 |  3 |  Wed, Aug 26               | [Lesson 3] |
 |  4 |  Mon, Aug 31               | [Lesson 4] |
 |  5 |  Wed, Sept 2               | [Lesson 5] |
-|  6 |  Mon, Sept 7               | [Lesson 6] |
-|  7 |  Wed, Sept 9               | [Lesson 7] |
-|  8 |  Mon, Sept 14              | [Lesson 8] |
-|  9 |  Wed, Sept 16              | [Lesson 9] |
-| 10 |  Mon, Sept 21              | [Lesson 10] |
-| 11 |  Wed, Sept 23              | [Lesson 11] |
-| 12 |  Mon, Sept 28              | [Lesson 12] |
-| 13 |  Wed, Sept 30              | [Lesson 13] |
-| 14 |  Mon, Oct 5                | [Lesson 14] |  
-| 15 |  Wed, Oct 7                | Final Exam/Presentations |
+|  - |  Mon, Sept 7               | **Holiday- Labor Day** |
+|  6 |  Wed, Sept 9               | [Lesson 7] |
+|  7 |  Mon, Sept 14              | [Lesson 8] |
+|  8 |  Wed, Sept 16              | [Lesson 9] |
+|  9 |  Mon, Sept 21              | [Lesson 10] |
+| 10 |  Wed, Sept 23              | [Lesson 11] |
+| 11 |  Mon, Sept 28              | [Lesson 12] |
+| 12 |  Wed, Sept 30              | [Lesson 13] |
+| 13 |  Mon, Oct 5                | [Lesson 14] |  
+| 14 |  Wed, Oct 7                | Final Exam/Presentations |
 
 
 **Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
@@ -84,6 +84,55 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 12 |  Tue, Sept 29              | [Lesson 12] |
 | 13 |  Thu, Oct 1              | [Lesson 13] |
 | 14 |  Tue, Oct 6                | Final Exam/Presentations |
+
+
+**M/W/F Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
+
+**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+
+**Class Times:** Monday, Wednesday, Friday at 9:30am–10:30pm (21 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Wed, Aug 19               | [Lesson 1] |
+|  2 |  Fri, Aug 21               | [Lesson 2] |
+|  3 |  Mon, Aug 24               | [Lesson 3] |
+|  4 |  Wed, Aug 26               | [Lesson 4] |
+|  5 |  Fri, Aug 28               | [Lesson 5] |
+|  6 |  Mon, Aug 31               | [Lesson 6] |
+|  7 |  Wed, Sept 2               | [Lesson 7] |
+|  8 |  Fri, Sept 4               | [Lesson 8] |
+|  - |  Mon, Sept 7               | **Holiday- Labor Day** |
+|  9 |  Wed, Sept 9               | [Lesson 9] |
+| 10 |  Fri, Sept 11              | [Lesson 10] |
+| 11 |  Mon, Sept 14              | [Lesson 11] |
+| 12 |  Wed, Sept 16              | [Lesson 12] |
+| 13 |  Fri, Sept 18              | [Lesson 13] |
+| 14 |  Mon, Sept 21              | [Lesson 14] |
+| 15 |  Wed, Sept 23              | [Lesson 14] |
+| 16 |  Fri, Sept 25              | [Lesson 14] |
+| 17 |  Mon, Sept 28              | [Lesson 14] |
+| 18 |  Wed, Sept 30              | [Lesson 14] |
+| 19 |  Fri, Oct 2                | [Lesson 14] |  
+| 20 |  Mon, Oct 5                | [Lesson 14] |  
+| 21 |  Wed, Oct 7                | Final Exam/Presentations |
+
+**Fri Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
+
+**Course Dates:** Friday, August 21 – Friday, Oct 2, 2020 (7 weeks)
+
+**Class Times:** Friday at 9:30am–12:30pm (7 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Fri, Aug 21               | [Lesson 1] |
+|  2 |  Fri, Aug 28               | [Lesson 2] |
+|  3 |  Fri, Sept 4               | [Lesson 3] |
+|  4 |  Fri, Sept 11              | [Lesson 4] |
+|  5 |  Fri, Sept 18              | [Lesson 5] |
+|  6 |  Fri, Sept 25              | [Lesson 6] |
+|  7 |  Fri, Oct 2                | [Lesson 7] |  
+
 
 
 [Lesson 1]: Lessons/Lesson1.md
