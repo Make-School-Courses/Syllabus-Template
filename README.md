@@ -41,7 +41,7 @@ Please pick from a template below and delete the other ones
 
 **Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (15 class sessions)
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
