@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.makeschool.com">
+      <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
+  </a>
+</p>
+
 # Title
 
 ### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
