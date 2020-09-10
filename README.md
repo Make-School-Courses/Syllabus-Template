@@ -21,6 +21,14 @@ Explain why students should care to learn the material presented in this class.
 - [Prerequisite 1]()
 - [Prerequisite 2]()
 
+## Course Specifics
+
+### **[INSTRUCTOR NOTE: PICK YOUR COURSE DELIVERY FORMAT BELOW AND DELETE THE OTHER TWO]**
+
+**Course Delivery**: online / hybrid / residential | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
+
 ## Learning Outcomes
 
 ### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
@@ -195,6 +203,12 @@ To pass this course you must meet the following requirements:
     - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
