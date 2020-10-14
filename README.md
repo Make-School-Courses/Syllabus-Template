@@ -41,6 +41,7 @@ By the end of the course, you will be able to ...
 1. Design & Implement
 1. Practice
 
+
 ## Schedule
 
 ---
@@ -173,6 +174,80 @@ Please pick from a template below and delete the other ones
 [Lesson 18]: Lessons/Lesson14.md
 [Lesson 19]: Lessons/Lesson14.md
 [Lesson 20]: Lessons/Lesson14.md
+
+
+## Tabbed Schedule - EXAMPLE
+
+**How to make a tabbed schedule.**
+
+- The code that does this is in comments, so view the raw markdown to see what's going on.
+- When you view the Docsify website of the course, the tabs will appear.
+- They will NOT appear by just viewing on GitHub
+
+### Instructions
+
+1. Copy the appropriate schedule(s) from the above list with the correct dates
+1. View the example below and copy the commented out code to generate the tabs:
+    1. `<!-- tabs:start -->` - put at the beginning of where you want tabs
+    1. `<!-- omit in toc -->` - put at the beginning of each header within the tabs
+    1. `<!-- tabs:end -->` - put at the end of where you want tabs (i.e. at the end of the last schedule)
+
+**See below example**
+
+<!-- tabs:start -->
+<!-- omit in toc -->
+### **Section A: Braus - HYBRID**
+
+**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
+
+Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
+
+| Class |          Date          |                 Topics         |   In-Person Labs   |
+|:-----:|:----------------------:|:------------------------------:|:-------------------:|
+|  1 |  Wed, Aug 19               | [Product: Introduction to SPD & Finding Problems] | |
+|  2 |  Mon, Aug 24               | [Professionalism: Produtivity & Communication] | |
+|  3 |  Wed, Aug 26               | [Industry Analysis] | Agile Standups I |
+|  4 |  Mon, Aug 31               | [Professionalism: Habit Formation] | |
+|  5 |  Wed, Sept 2               | [Product: User Interviews] |  Agile Standups II |
+|  - |  Mon, Sept 7               | **Holiday- Labor Day** | |
+|  6 |  Wed, Sept 9               | Product: User Interviewing Lab (Study & Productivity & Wellness) | Habit Formation |
+|  7 |  Mon, Sept 14              | [Product: Generating New Solutions] | |
+|  8 |  Wed, Sept 16              | [Professionalism Procrastination & Time Sinks] |  Agile Standups III |
+|  9 |  Mon, Sept 21              | [Product: scoping & user journeys] | |
+| 10 |  Wed, Sept 23              | [Finding Joy in Coding] | Paper Wireframing  |
+| 11 |  Mon, Sept 28              | [Product: Wireframes & Design] | |
+| 12 |  Wed, Sept 30              | How to Build a Beautiful Portfolio |  Agile Standups IV |
+| 13 |  Mon, Oct 5                | [Professionalism: Email Fundamentals] |  
+| 14 |  Wed, Oct 7                | Publish Party |
+
+<!-- omit in toc -->
+### **Section B: Kami**
+
+**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
+
+| Class |          Date          |                 Topics         |
+|:-----:|:----------------------:|:------------------------------:|
+|  1 |  Wed, Aug 19               | [Product: Introduction to SPD & Finding Problems] |
+|  2 |  Mon, Aug 24               | [Professionalism: Produtivity & Communication] |
+|  3 |  Wed, Aug 26               | [Industry Analysis] |
+|  4 |  Mon, Aug 31               | [Professionalism: Habit Formation] |
+|  5 |  Wed, Sept 2               | [Product: User Interviews] |
+|  - |  Mon, Sept 7               | **Holiday- Labor Day** | 
+|  6 |  Wed, Sept 9               | Product: User Interviewing Lab (Study & Productivity & Wellness) |
+|  7 |  Mon, Sept 14              | [Product: Generating New Solutions] | 
+|  8 |  Wed, Sept 16              | [Professionalism Procrastination & Time Sinks] |
+|  9 |  Mon, Sept 21              | [Product: scoping & user journeys] | 
+| 10 |  Wed, Sept 23              | [Finding Joy in Coding] |
+| 11 |  Mon, Sept 28              | [Product: Wireframes & Design] | 
+| 12 |  Wed, Sept 30              | How to Build a Beautiful Portfolio |
+| 13 |  Mon, Oct 5                | [Professionalism: Email Fundamentals] |  
+| 14 |  Wed, Oct 7                | Publish Party |
+
+<!-- tabs:end -->
 
 ## Assignment Schedule 
 
