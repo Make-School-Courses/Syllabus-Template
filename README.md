@@ -56,57 +56,57 @@ Please pick from a template below and delete the other ones
 
 **Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Wed, Oct 21               | [Lesson 1] |
 |  2 |  Mon, Oct 26               | [Lesson 2] |
 |  3 |  Wed, Oct 28               | [Lesson 3] |
-|  4 |  Mon, Nov 2              | [Lesson 4] |
-|  5 |  Wed, Nov 4               | [Lesson 5] |
-|  6 |  Mon, Nov 9               | [Lesson 6] |
-|  7 |  Wed, Nov 11               | [Lesson 7] |
-|  8 |  Mon, Nov 16              | [Lesson 8] |
-|  9 |  Wed, Nov 18              | [Lesson 9] |
-| 10 |  Mon, Nov 23              | [Lesson 10] |
-|  - |  Wed, Nov 25               | **Holiday- Thanksgiving** |
-| 11 |  Mon, Nov 30              | [Lesson 11] |
-| 12 |  Wed, Dec 2              | [Lesson 12] |
-| 13 |  Mon, Dec 7              | [Lesson 13] |
-| 14 |  Wed, Dec 9                | Final Exam/Presentations |  
+|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  4 |  Wed, Nov 4               | [Lesson 4] |
+|  5 |  Mon, Nov 9               | [Lesson 5] |
+|  6 |  Wed, Nov 11               | [Lesson 6] |
+|  7 |  Mon, Nov 16              | [Lesson 7] |
+|  8 |  Wed, Nov 18              | [Lesson 8] |
+|  9 |  Mon, Nov 23              | [Lesson 9] |
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+| 10 |  Mon, Nov 30              | [Lesson 10] |
+| 11 |  Wed, Dec 2              | [Lesson 11] |
+| 12 |  Mon, Dec 7              | [Lesson 12] |
+| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
 
 
 **Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
 
 **Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
 
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (14 class sessions)
+**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Thu, Oct 22               | [Lesson 1] |
 |  2 |  Tue, Oct 27               | [Lesson 2] |
 |  3 |  Thu, Oct 29               | [Lesson 3] |
-|  4 |  Tue, Nov 3              | [Lesson 4] |
-|  5 |  Thu, Nov 5               | [Lesson 5] |
-|  6 |  Tue, Nov 10               | [Lesson 6] |
-|  7 |  Thu, Nov 12               | [Lesson 7] |
-|  8 |  Tue, Nov 17              | [Lesson 8] |
-|  9 |  Thu, Nov 19              | [Lesson 9] |
-| 10 |  Tue, Nov 24              | [Lesson 10] |
+|  - |  Tue, Nov 3              | **Voting - Civic Responsibility Break** |
+|  4 |  Thu, Nov 5               | [Lesson 4] |
+|  5 |  Tue, Nov 10               | [Lesson 5] |
+|  6 |  Thu, Nov 12               | [Lesson 6] |
+|  7 |  Tue, Nov 17              | [Lesson 7] |
+|  8 |  Thu, Nov 19              | [Lesson 8] |
+|  9 |  Tue, Nov 24              | [Lesson 9] |
 |  - |  Thu, Nov 26               | **Holiday- Thanksgiving** |
-| 11 |  Tue, Dec 1              | [Lesson 11] |
-| 12 |  Thu, Dec 3              | [Lesson 12] |
-| 13 |  Tue, Dec 8              | [Lesson 13] |
-| 14 |  Thu, Dec 10                | Final Exam/Presentations |  
+| 10 |  Tue, Dec 1              | [Lesson 10] |
+| 11 |  Thu, Dec 3              | [Lesson 11] |
+| 12 |  Tue, Dec 8              | [Lesson 12] |
+| 13 |  Thu, Dec 10                | Final Exam/Presentations |  
 
 
 **M/W/F Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
 
 **Course Dates:** Wednesday, October 21 – Friday, December 11, 2020 (8 weeks)
 
-**Class Times:** Monday, Wednesday, Friday at 9:30am–10:30pm (21 class sessions)
+**Class Times:** Monday, Wednesday, Friday at 9:30am–10:30pm (20 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -115,24 +115,24 @@ Please pick from a template below and delete the other ones
 |  3 |  Mon, Oct 26               | [Lesson 3] |
 |  4 |  Wed, Oct 28               | [Lesson 4] |
 |  5 |  Fri, Oct 30               | [Lesson 5] |
-|  6 |  Mon, Nov 2              | [Lesson 6] |
-|  7 |  Wed, Nov 4               | [Lesson 7] |
-|  8 |  Fri, Nov 6               | [Lesson 8] |
-|  9 |  Mon, Nov 9               | [Lesson 9] |
-| 10 |  Wed, Nov 11               | [Lesson 10] |
-| 11 |  Fri, Nov 13               | [Lesson 11] |
-| 12 |  Mon, Nov 16              | [Lesson 12] |
-| 13 |  Wed, Nov 18              | [Lesson 13] |
-| 14 |  Fri, Nov 20              | [Lesson 14] |
-| 15 |  Mon, Nov 23              | [Lesson 15] |
+|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  6 |  Wed, Nov 4               | [Lesson 7] |
+|  7 |  Fri, Nov 6               | [Lesson 8] |
+|  8 |  Mon, Nov 9               | [Lesson 9] |
+|  9 |  Wed, Nov 11               | [Lesson 10] |
+| 10 |  Fri, Nov 13               | [Lesson 11] |
+| 11 |  Mon, Nov 16              | [Lesson 12] |
+| 12 |  Wed, Nov 18              | [Lesson 13] |
+| 13 |  Fri, Nov 20              | [Lesson 14] |
+| 14 |  Mon, Nov 23              | [Lesson 15] |
 |  - |  Wed, Nov 25               | **Holiday- Thanksgiving** |
 |  - |  Fri, Nov 27               | **Holiday- Thanksgiving** |
-| 16 |  Mon, Nov 30              | [Lesson 16] |
-| 17 |  Wed, Dec 2              | [Lesson 17] |
-| 18 |  Fri, Dec 4              | [Lesson 18] |
-| 19 |  Mon, Dec 7              | [Lesson 19] |
-| 20 |  Wed, Dec 9                | [Lesson 20] |  
-| 21 |  Fri, Dec 11                | Final Exam/Presentations |  
+| 15 |  Mon, Nov 30              | [Lesson 16] |
+| 16 |  Wed, Dec 2              | [Lesson 17] |
+| 17 |  Fri, Dec 4              | [Lesson 18] |
+| 18 |  Mon, Dec 7              | [Lesson 19] |
+| 19 |  Wed, Dec 9                | [Lesson 20] |  
+| 20 |  Fri, Dec 11                | Final Exam/Presentations |  
 
 
 **Fri Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
@@ -196,56 +196,56 @@ Please pick from a template below and delete the other ones
 
 <!-- tabs:start -->
 <!-- omit in toc -->
-### **Section A: Braus - HYBRID**
+### **Section A: INSTRUCTOR NAME - HYBRID**
 
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
 Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
 
-| Class |          Date          |                 Topics         |   In-Person Labs   |
-|:-----:|:----------------------:|:------------------------------:|:-------------------:|
-|  1 |  Wed, Aug 19               | [Product: Introduction to SPD & Finding Problems] | |
-|  2 |  Mon, Aug 24               | [Professionalism: Produtivity & Communication] | |
-|  3 |  Wed, Aug 26               | [Industry Analysis] | Agile Standups I |
-|  4 |  Mon, Aug 31               | [Professionalism: Habit Formation] | |
-|  5 |  Wed, Sept 2               | [Product: User Interviews] |  Agile Standups II |
-|  - |  Mon, Sept 7               | **Holiday- Labor Day** | |
-|  6 |  Wed, Sept 9               | Product: User Interviewing Lab (Study & Productivity & Wellness) | Habit Formation |
-|  7 |  Mon, Sept 14              | [Product: Generating New Solutions] | |
-|  8 |  Wed, Sept 16              | [Professionalism Procrastination & Time Sinks] |  Agile Standups III |
-|  9 |  Mon, Sept 21              | [Product: scoping & user journeys] | |
-| 10 |  Wed, Sept 23              | [Finding Joy in Coding] | Paper Wireframing  |
-| 11 |  Mon, Sept 28              | [Product: Wireframes & Design] | |
-| 12 |  Wed, Sept 30              | How to Build a Beautiful Portfolio |  Agile Standups IV |
-| 13 |  Mon, Oct 5                | [Professionalism: Email Fundamentals] |  
-| 14 |  Wed, Oct 7                | Publish Party |
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Wed, Oct 21               | [Lesson 1] |
+|  2 |  Mon, Oct 26               | [Lesson 2] |
+|  3 |  Wed, Oct 28               | [Lesson 3] |
+|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  4 |  Wed, Nov 4               | [Lesson 4] |
+|  5 |  Mon, Nov 9               | [Lesson 5] |
+|  6 |  Wed, Nov 11               | [Lesson 6] |
+|  7 |  Mon, Nov 16              | [Lesson 7] |
+|  8 |  Wed, Nov 18              | [Lesson 8] |
+|  9 |  Mon, Nov 23              | [Lesson 9] |
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+| 10 |  Mon, Nov 30              | [Lesson 10] |
+| 11 |  Wed, Dec 2              | [Lesson 11] |
+| 12 |  Mon, Dec 7              | [Lesson 12] |
+| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
 
 <!-- omit in toc -->
-### **Section B: Kami**
+### **Section B: INSTRUCTOR NAME**
 
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics         |
-|:-----:|:----------------------:|:------------------------------:|
-|  1 |  Wed, Aug 19               | [Product: Introduction to SPD & Finding Problems] |
-|  2 |  Mon, Aug 24               | [Professionalism: Produtivity & Communication] |
-|  3 |  Wed, Aug 26               | [Industry Analysis] |
-|  4 |  Mon, Aug 31               | [Professionalism: Habit Formation] |
-|  5 |  Wed, Sept 2               | [Product: User Interviews] |
-|  - |  Mon, Sept 7               | **Holiday- Labor Day** | 
-|  6 |  Wed, Sept 9               | Product: User Interviewing Lab (Study & Productivity & Wellness) |
-|  7 |  Mon, Sept 14              | [Product: Generating New Solutions] | 
-|  8 |  Wed, Sept 16              | [Professionalism Procrastination & Time Sinks] |
-|  9 |  Mon, Sept 21              | [Product: scoping & user journeys] | 
-| 10 |  Wed, Sept 23              | [Finding Joy in Coding] |
-| 11 |  Mon, Sept 28              | [Product: Wireframes & Design] | 
-| 12 |  Wed, Sept 30              | How to Build a Beautiful Portfolio |
-| 13 |  Mon, Oct 5                | [Professionalism: Email Fundamentals] |  
-| 14 |  Wed, Oct 7                | Publish Party |
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Wed, Oct 21               | [Lesson 1] |
+|  2 |  Mon, Oct 26               | [Lesson 2] |
+|  3 |  Wed, Oct 28               | [Lesson 3] |
+|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  4 |  Wed, Nov 4               | [Lesson 4] |
+|  5 |  Mon, Nov 9               | [Lesson 5] |
+|  6 |  Wed, Nov 11               | [Lesson 6] |
+|  7 |  Mon, Nov 16              | [Lesson 7] |
+|  8 |  Wed, Nov 18              | [Lesson 8] |
+|  9 |  Mon, Nov 23              | [Lesson 9] |
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+| 10 |  Mon, Nov 30              | [Lesson 10] |
+| 11 |  Wed, Dec 2              | [Lesson 11] |
+| 12 |  Mon, Dec 7              | [Lesson 12] |
+| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
 
 <!-- tabs:end -->
 
