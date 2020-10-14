@@ -45,107 +45,111 @@ By the end of the course, you will be able to ...
 
 ---
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE AUGUST 17]**
+**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE OCTOBER 20]**
 
 Please pick from a template below and delete the other ones
 
 ---
 
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
+**M/W Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
 
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Aug 19               | [Lesson 1] |
-|  2 |  Mon, Aug 24               | [Lesson 2] |
-|  3 |  Wed, Aug 26               | [Lesson 3] |
-|  4 |  Mon, Aug 31               | [Lesson 4] |
-|  5 |  Wed, Sept 2               | [Lesson 5] |
-|  - |  Mon, Sept 7               | **Holiday- Labor Day** |
-|  6 |  Wed, Sept 9               | [Lesson 7] |
-|  7 |  Mon, Sept 14              | [Lesson 8] |
-|  8 |  Wed, Sept 16              | [Lesson 9] |
-|  9 |  Mon, Sept 21              | [Lesson 10] |
-| 10 |  Wed, Sept 23              | [Lesson 11] |
-| 11 |  Mon, Sept 28              | [Lesson 12] |
-| 12 |  Wed, Sept 30              | [Lesson 13] |
-| 13 |  Mon, Oct 5                | [Lesson 14] |  
-| 14 |  Wed, Oct 7                | Final Exam/Presentations |
+|  1 |  Wed, Oct 21               | [Lesson 1] |
+|  2 |  Mon, Oct 26               | [Lesson 2] |
+|  3 |  Wed, Oct 28               | [Lesson 3] |
+|  4 |  Mon, Nov 2              | [Lesson 4] |
+|  5 |  Wed, Nov 4               | [Lesson 5] |
+|  6 |  Mon, Nov 9               | [Lesson 6] |
+|  7 |  Wed, Nov 11               | [Lesson 7] |
+|  8 |  Mon, Nov 16              | [Lesson 8] |
+|  9 |  Wed, Nov 18              | [Lesson 9] |
+| 10 |  Mon, Nov 23              | [Lesson 10] |
+|  - |  Wed, Nov 25               | **Holiday- Thanksgiving** |
+| 11 |  Mon, Nov 30              | [Lesson 11] |
+| 12 |  Wed, Dec 2              | [Lesson 12] |
+| 13 |  Mon, Dec 7              | [Lesson 13] |
+| 14 |  Wed, Dec 9                | Final Exam/Presentations |  
 
 
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
+**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
 
-**Course Dates:** Thursday, August 20 – Tuesday, October 6, 2020 (7 weeks)
+**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
 
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Thu, Aug 20               | [Lesson 1] |
-|  2 |  Tue, Aug 25               | [Lesson 2] |
-|  3 |  Thu, Aug 27               | [Lesson 3] |
-|  4 |  Tue, Sept 1               | [Lesson 4] |
-|  5 |  Thu, Sept 3               | [Lesson 5] |
-|  6 |  Tue, Sept 8               | [Lesson 6] |
-|  7 |  Thu, Sept 10               | [Lesson 7] |
-|  8 |  Tue, Sept 15              | [Lesson 8] |
-|  9 |  Thu, Sept 17              | [Lesson 9] |
-| 10 |  Tue, Sept 22              | [Lesson 10] |
-| 11 |  Thu, Sept 24              | [Lesson 11] |
-| 12 |  Tue, Sept 29              | [Lesson 12] |
-| 13 |  Thu, Oct 1              | [Lesson 13] |
-| 14 |  Tue, Oct 6                | Final Exam/Presentations |
+|  1 |  Thu, Oct 22               | [Lesson 1] |
+|  2 |  Tue, Oct 27               | [Lesson 2] |
+|  3 |  Thu, Oct 29               | [Lesson 3] |
+|  4 |  Tue, Nov 3              | [Lesson 4] |
+|  5 |  Thu, Nov 5               | [Lesson 5] |
+|  6 |  Tue, Nov 10               | [Lesson 6] |
+|  7 |  Thu, Nov 12               | [Lesson 7] |
+|  8 |  Tue, Nov 17              | [Lesson 8] |
+|  9 |  Thu, Nov 19              | [Lesson 9] |
+| 10 |  Tue, Nov 24              | [Lesson 10] |
+|  - |  Thu, Nov 26               | **Holiday- Thanksgiving** |
+| 11 |  Tue, Dec 1              | [Lesson 11] |
+| 12 |  Thu, Dec 3              | [Lesson 12] |
+| 13 |  Tue, Dec 8              | [Lesson 13] |
+| 14 |  Thu, Dec 10                | Final Exam/Presentations |  
 
 
-**M/W/F Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
+**M/W/F Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
 
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+**Course Dates:** Wednesday, October 21 – Friday, December 11, 2020 (8 weeks)
 
 **Class Times:** Monday, Wednesday, Friday at 9:30am–10:30pm (21 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Aug 19               | [Lesson 1] |
-|  2 |  Fri, Aug 21               | [Lesson 2] |
-|  3 |  Mon, Aug 24               | [Lesson 3] |
-|  4 |  Wed, Aug 26               | [Lesson 4] |
-|  5 |  Fri, Aug 28               | [Lesson 5] |
-|  6 |  Mon, Aug 31               | [Lesson 6] |
-|  7 |  Wed, Sept 2               | [Lesson 7] |
-|  8 |  Fri, Sept 4               | [Lesson 8] |
-|  - |  Mon, Sept 7               | **Holiday- Labor Day** |
-|  9 |  Wed, Sept 9               | [Lesson 9] |
-| 10 |  Fri, Sept 11              | [Lesson 10] |
-| 11 |  Mon, Sept 14              | [Lesson 11] |
-| 12 |  Wed, Sept 16              | [Lesson 12] |
-| 13 |  Fri, Sept 18              | [Lesson 13] |
-| 14 |  Mon, Sept 21              | [Lesson 14] |
-| 15 |  Wed, Sept 23              | [Lesson 14] |
-| 16 |  Fri, Sept 25              | [Lesson 14] |
-| 17 |  Mon, Sept 28              | [Lesson 14] |
-| 18 |  Wed, Sept 30              | [Lesson 14] |
-| 19 |  Fri, Oct 2                | [Lesson 14] |  
-| 20 |  Mon, Oct 5                | [Lesson 14] |  
-| 21 |  Wed, Oct 7                | Final Exam/Presentations |
+|  1 |  Wed, Oct 21               | [Lesson 1] |
+|  2 |  Fri, Oct 23               | [Lesson 2] |
+|  3 |  Mon, Oct 26               | [Lesson 3] |
+|  4 |  Wed, Oct 28               | [Lesson 4] |
+|  5 |  Fri, Oct 30               | [Lesson 5] |
+|  6 |  Mon, Nov 2              | [Lesson 6] |
+|  7 |  Wed, Nov 4               | [Lesson 7] |
+|  8 |  Fri, Nov 6               | [Lesson 8] |
+|  9 |  Mon, Nov 9               | [Lesson 9] |
+| 10 |  Wed, Nov 11               | [Lesson 10] |
+| 11 |  Fri, Nov 13               | [Lesson 11] |
+| 12 |  Mon, Nov 16              | [Lesson 12] |
+| 13 |  Wed, Nov 18              | [Lesson 13] |
+| 14 |  Fri, Nov 20              | [Lesson 14] |
+| 15 |  Mon, Nov 23              | [Lesson 15] |
+|  - |  Wed, Nov 25               | **Holiday- Thanksgiving** |
+|  - |  Fri, Nov 27               | **Holiday- Thanksgiving** |
+| 16 |  Mon, Nov 30              | [Lesson 16] |
+| 17 |  Wed, Dec 2              | [Lesson 17] |
+| 18 |  Fri, Dec 4              | [Lesson 18] |
+| 19 |  Mon, Dec 7              | [Lesson 19] |
+| 20 |  Wed, Dec 9                | [Lesson 20] |  
+| 21 |  Fri, Dec 11                | Final Exam/Presentations |  
 
-**Fri Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
 
-**Course Dates:** Friday, August 21 – Friday, Oct 2, 2020 (7 weeks)
+**Fri Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
+
+**Course Dates:** Friday, October 23 – Friday, December 11, 2020 (8 weeks)
 
 **Class Times:** Friday at 9:30am–12:30pm (7 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Fri, Aug 21               | [Lesson 1] |
-|  2 |  Fri, Aug 28               | [Lesson 2] |
-|  3 |  Fri, Sept 4               | [Lesson 3] |
-|  4 |  Fri, Sept 11              | [Lesson 4] |
-|  5 |  Fri, Sept 18              | [Lesson 5] |
-|  6 |  Fri, Sept 25              | [Lesson 6] |
-|  7 |  Fri, Oct 2                | [Lesson 7] |  
+|  1 |  Fri, Oct 23               | [Lesson 1] |
+|  2 |  Fri, Oct 30               | [Lesson 2] |
+|  3 |  Fri, Nov 6               | [Lesson 3] |
+|  4 |  Fri, Nov 13              | [Lesson 4] |
+|  5 |  Fri, Nov 20              | [Lesson 5] |
+|  - |  Fri, Nov 27              | **Holiday- Thanksgiving** |
+|  6 |  Fri, Dec 4              | [Lesson 6] |
+|  7 |  Fri, Dec 11                | Final Exam/Presentations |  
 
 
 
@@ -163,6 +167,12 @@ Please pick from a template below and delete the other ones
 [Lesson 12]: Lessons/Lesson12.md
 [Lesson 13]: Lessons/Lesson13.md
 [Lesson 14]: Lessons/Lesson14.md
+[Lesson 15]: Lessons/Lesson14.md
+[Lesson 16]: Lessons/Lesson14.md
+[Lesson 17]: Lessons/Lesson14.md
+[Lesson 18]: Lessons/Lesson14.md
+[Lesson 19]: Lessons/Lesson14.md
+[Lesson 20]: Lessons/Lesson14.md
 
 ## Assignment Schedule 
 
