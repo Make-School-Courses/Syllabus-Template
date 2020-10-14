@@ -63,7 +63,7 @@ Please pick from a template below and delete the other ones
 |  1 |  Wed, Oct 21               | [Lesson 1] |
 |  2 |  Mon, Oct 26               | [Lesson 2] |
 |  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | [Lesson 4] |
 |  5 |  Mon, Nov 9               | [Lesson 5] |
 |  6 |  Wed, Nov 11               | [Lesson 6] |
@@ -88,7 +88,7 @@ Please pick from a template below and delete the other ones
 |  1 |  Thu, Oct 22               | [Lesson 1] |
 |  2 |  Tue, Oct 27               | [Lesson 2] |
 |  3 |  Thu, Oct 29               | [Lesson 3] |
-|  - |  Tue, Nov 3              | **Voting - Civic Responsibility Break** |
+|  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
 |  4 |  Thu, Nov 5               | [Lesson 4] |
 |  5 |  Tue, Nov 10               | [Lesson 5] |
 |  6 |  Thu, Nov 12               | [Lesson 6] |
@@ -115,7 +115,7 @@ Please pick from a template below and delete the other ones
 |  3 |  Mon, Oct 26               | [Lesson 3] |
 |  4 |  Wed, Oct 28               | [Lesson 4] |
 |  5 |  Fri, Oct 30               | [Lesson 5] |
-|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  6 |  Wed, Nov 4               | [Lesson 7] |
 |  7 |  Fri, Nov 6               | [Lesson 8] |
 |  8 |  Mon, Nov 9               | [Lesson 9] |
@@ -209,7 +209,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 |  1 |  Wed, Oct 21               | [Lesson 1] |
 |  2 |  Mon, Oct 26               | [Lesson 2] |
 |  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | [Lesson 4] |
 |  5 |  Mon, Nov 9               | [Lesson 5] |
 |  6 |  Wed, Nov 11               | [Lesson 6] |
@@ -234,7 +234,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 |  1 |  Wed, Oct 21               | [Lesson 1] |
 |  2 |  Mon, Oct 26               | [Lesson 2] |
 |  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Voting - Civic Responsibility Break** |
+|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | [Lesson 4] |
 |  5 |  Mon, Nov 9               | [Lesson 5] |
 |  6 |  Wed, Nov 11               | [Lesson 6] |
