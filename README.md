@@ -60,7 +60,7 @@ Please pick from a template below and delete the other ones
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, Jan 18               | **Holiday - MLK Day** |
+|  - |  Mon, Jan 18               | **No Class - MLK Day** |
 |  1 |  Wed, Jan 20               | [Lesson 1] |
 |  2 |  Mon, Jan 25               | [Lesson 2] |
 |  3 |  Wed, Jan 27               | [Lesson 3] |
@@ -84,7 +84,7 @@ Please pick from a template below and delete the other ones
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **Holiday - MLK Day** |
+|  - |  Tue, Jan 19               | **No Class - MLK Day** |
 |  1 |  Thu, Jan 21               | [Lesson 1] |
 |  2 |  Tue, Jan 26               | [Lesson 2] |
 |  3 |  Thu, Jan 28                | [Lesson 3] |
@@ -115,10 +115,10 @@ Please pick from a template below and delete the other ones
 |  5 |  Fri, Feb 19               | [Lesson 5] |
 |  6 |  Fri, Feb 26               | [Lesson 6] |
 |  7 |  Fri, Mar 5                | [Lesson 2] |
-| -  |  Fri, Mar 12               | **Holiday - Spring Break** |
+| -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 8  |  Fri, Mar 19               | [Lesson 10] |
 | 9 |   Fri, Mar 26               | [Lesson 13] |
-| -  |  Fri, Apr 2                | **Holiday - Good Friday**  |
+| -  |  Fri, Apr 2                | **No Class - Good Friday**  |
 | 10 |  Fri, Apr 9                | [Lesson 4] |
 | 11 |  Fri, Apr 16               | [Lesson 7] |
 | 12 |  Fri, Apr 23               | [Lesson 10] |
@@ -134,7 +134,7 @@ Please pick from a template below and delete the other ones
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **Holiday - MLK Day** |
+|  - |  Tue, Jan 19               | **No Class - MLK Day** |
 |  1 |  Thu, Jan 21               | [Lesson 2] |
 |  2 |  Tue, Jan 26               | [Lesson 4] |
 |  3 |  Thu, Jan 28               | [Lesson 5] |
@@ -148,14 +148,14 @@ Please pick from a template below and delete the other ones
 | 11 |  Thu, Feb 25               | [Lesson 3] |
 | 12 |  Tue, Mar 2                | [Lesson 5] |
 | 13 |  Thu, Mar 4                | [Lesson 6] |
-| -  |  Tue, Mar 9                | **Holiday - Spring Break** |
-| -  |  Thu, Mar 11               | **Holiday - Spring Break** |
+| -  |  Tue, Mar 9                | **No Class - Spring Break** |
+| -  |  Thu, Mar 11               | **No Class - Spring Break** |
 | 14 |  Tue, Mar 16               | [Lesson 8] |
 | 15 |  Thu, Mar 18               | [Lesson 9] |
 | 16 |  Tue, Mar 23               | [Lesson 11] |
 | 17 |  Thu, Mar 25               | [Lesson 12] |
 | 18 |  Tue, Mar 29               | [Lesson 14] |
-| -  |  Thu, Apr 1               |  **Holiday - Cesar Chavez**  |
+| -  |  Thu, Apr 1               |  **No Class - Cesar Chavez**  |
 | 19 |  Tue, Apr 6              | [Lesson 2] |
 | 20 |  Thu, Apr 8              | [Lesson 3] |
 | 21 |  Tue, Apr 13             | [Lesson 5] |
@@ -177,7 +177,7 @@ Please pick from a template below and delete the other ones
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **Holiday - MLK Day** |
+|  - |  Tue, Jan 19               | **No Class - MLK Day** |
 |  1 |  Thu, Jan 21               | [Lesson 2] |
 |  2 |  Fri, Jan 22               | [Lesson 3] |
 |  3 |  Tue, Jan 26               | [Lesson 4] |
@@ -198,9 +198,9 @@ Please pick from a template below and delete the other ones
 | 18 |  Tue, Mar 2                | [Lesson 5] |
 | 19 |  Thu, Mar 4                | [Lesson 6] |
 | 20 |  Fri, Mar 5                | [Lesson 7] |
-| -  |  Tue, Mar 9                | **Holiday - Spring Break** |
-| -  |  Thu, Mar 11               | **Holiday - Spring Break** |
-| -  |  Fri, Mar 12               | **Holiday - Spring Break** |
+| -  |  Tue, Mar 9                | **No Class - Spring Break** |
+| -  |  Thu, Mar 11               | **No Class - Spring Break** |
+| -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 21 |  Tue, Mar 16               | [Lesson 8] |
 | 22 |  Thu, Mar 18               | [Lesson 9] |
 | 23 |  Fri, Mar 19               | [Lesson 10] |
@@ -208,8 +208,8 @@ Please pick from a template below and delete the other ones
 | 25 |  Thu, Mar 25               | [Lesson 12] |
 | 26 |  Fri, Mar 26               | [Lesson 13] |
 | 27 |  Tue, Mar 30               | [Lesson 14] |
-| -  |  Thu, Apr 1               |  **Holiday - Cesar Chavez**  |
-| -  |  Fri, Apr 2               | **Holiday - Good Friday**  |
+| -  |  Thu, Apr 1               |  **No Class - Cesar Chavez**  |
+| -  |  Fri, Apr 2               | **No Class - Good Friday**  |
 | 28 |  Tue, Apr 6              | [Lesson 2] |
 | 29 |  Thu, Apr 8              | [Lesson 3] |
 | 30 |  Fri, Apr 9              | [Lesson 4] |
@@ -293,7 +293,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 |  7 |  Mon, Nov 16              | [Lesson 7] |
 |  8 |  Wed, Nov 18              | [Lesson 8] |
 |  9 |  Mon, Nov 23              | [Lesson 9] |
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+|  - |  Wed, Nov 25               | **No Class - Thanksgiving** |
 | 10 |  Mon, Nov 30              | [Lesson 10] |
 | 11 |  Wed, Dec 2              | [Lesson 11] |
 | 12 |  Mon, Dec 7              | [Lesson 12] |
@@ -318,7 +318,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 |  7 |  Mon, Nov 16              | [Lesson 7] |
 |  8 |  Wed, Nov 18              | [Lesson 8] |
 |  9 |  Mon, Nov 23              | [Lesson 9] |
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+|  - |  Wed, Nov 25               | **No Class - Thanksgiving** |
 | 10 |  Mon, Nov 30              | [Lesson 10] |
 | 11 |  Wed, Dec 2              | [Lesson 11] |
 | 12 |  Mon, Dec 7              | [Lesson 12] |
