@@ -25,7 +25,7 @@ Explain why students should care to learn the material presented in this class.
 
 ### **[INSTRUCTOR NOTE: PICK YOUR COURSE DELIVERY FORMAT BELOW AND DELETE THE OTHER TWO]**
 
-**Course Delivery**: online / hybrid / residential | 7 weeks | 14 sessions
+**Course Delivery**: online / hybrid / residential | 7 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
 
