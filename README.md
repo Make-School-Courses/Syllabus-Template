@@ -80,24 +80,24 @@ Please pick from a template below and delete the other ones
 
 **Course Dates:** Tuesday, January 19 – Thursday, March 4, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (14 class sessions)
+**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Jan 19               | [Lesson 1] |
-|  2 |  Thu, Jan 21               | [Lesson 2] |
-|  3 |  Tue, Jan 26               | [Lesson 3] |
-|  4 |  Thu, Jan 28                | [Lesson 4] |
-|  5 |  Tue, Feb 2                | [Lesson 5] |
-|  6 |  Thu, Feb 4                | [Lesson 6] |
-|  7 |  Tue, Feb 9               | [Lesson 7] |
-|  8 |  Thu, Feb 11               | [Lesson 8] |
-|  9 |  Tue, Feb 16               | [Lesson 9] |
-| 10 |  Thu, Feb 18               | [Lesson 10] |
-| 11 |  Tue, Feb 23               | [Lesson 11] |
-| 12 |  Thu, Feb 25                | [Lesson 12] |
-| 13 |  Tue, Mar 2                | [Lesson 13] | 
-| 14 |  Tue, Mar 4                | Final Exam/Presentations | 
+|  - |  Tue, Jan 19               | **Holiday - MLK Day** |
+|  1 |  Thu, Jan 21               | [Lesson 1] |
+|  2 |  Tue, Jan 26               | [Lesson 2] |
+|  3 |  Thu, Jan 28                | [Lesson 3] |
+|  4 |  Tue, Feb 2                | [Lesson 4] |
+|  5 |  Thu, Feb 4                | [Lesson 5] |
+|  6 |  Tue, Feb 9               | [Lesson 6] |
+|  7 |  Thu, Feb 11               | [Lesson 7] |
+|  8 |  Tue, Feb 16               | [Lesson 8] |
+|  9 |  Thu, Feb 18               | [Lesson 9] |
+| 10 |  Tue, Feb 23               | [Lesson 10] |
+| 11 |  Thu, Feb 25                | [Lesson 11] |
+| 12 |  Tue, Mar 2                | [Lesson 12] | 
+| 13 |  Tue, Mar 4                | Final Exam/Presentations | 
 
 
 **SEMESTER Fri Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
@@ -130,102 +130,102 @@ Please pick from a template below and delete the other ones
 
 **Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2020 (17 weeks)
 
-**Class Times:** Tuesday, Thursday at 9:30–11:30am (31 class sessions)
+**Class Times:** Tuesday, Thursday at 9:30–11:30am (29 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Jan 19               | [Lesson 1] |
-|  2 |  Thu, Jan 21               | [Lesson 2] |
-|  3 |  Tue, Jan 26               | [Lesson 4] |
-|  4 |  Thu, Jan 28               | [Lesson 5] |
-|  5 |  Tue, Feb 2                | [Lesson 7] |
-|  6 |  Thu, Feb 4                | [Lesson 8] |
-|  7 |  Tue, Feb 9                | [Lesson 10] |
-|  8 |  Thu, Feb 11               | [Lesson 11] |
-|  9 |  Tue, Feb 16               | [Lesson 13] |
-| 10 |  Thu, Feb 18               | [Lesson 14] |
-| 11 |  Tue, Feb 23               | [Lesson 2] |
-| 12 |  Thu, Feb 25               | [Lesson 3] |
-| 13 |  Tue, Mar 2                | [Lesson 5] |
-| 14 |  Thu, Mar 4                | [Lesson 6] |
+|  - |  Tue, Jan 19               | **Holiday - MLK Day** |
+|  1 |  Thu, Jan 21               | [Lesson 2] |
+|  2 |  Tue, Jan 26               | [Lesson 4] |
+|  3 |  Thu, Jan 28               | [Lesson 5] |
+|  4 |  Tue, Feb 2                | [Lesson 7] |
+|  5 |  Thu, Feb 4                | [Lesson 8] |
+|  6 |  Tue, Feb 9                | [Lesson 10] |
+|  7 |  Thu, Feb 11               | [Lesson 11] |
+|  8 |  Tue, Feb 16               | [Lesson 13] |
+|  9 |  Thu, Feb 18               | [Lesson 14] |
+| 10 |  Tue, Feb 23               | [Lesson 2] |
+| 11 |  Thu, Feb 25               | [Lesson 3] |
+| 12 |  Tue, Mar 2                | [Lesson 5] |
+| 13 |  Thu, Mar 4                | [Lesson 6] |
 | -  |  Tue, Mar 9                | **Holiday - Spring Break** |
 | -  |  Thu, Mar 11               | **Holiday - Spring Break** |
-| 15 |  Tue, Mar 16               | [Lesson 8] |
-| 16 |  Thu, Mar 18               | [Lesson 9] |
-| 17 |  Tue, Mar 23               | [Lesson 11] |
-| 18 |  Thu, Mar 25               | [Lesson 12] |
-| 19 |  Tue, Mar 29               | [Lesson 14] |
-| 20 |  Thu, Apr 1               |  [Lesson 1]  |
-| 21 |  Tue, Apr 6              | [Lesson 2] |
-| 22 |  Thu, Apr 8              | [Lesson 3] |
-| 23 |  Tue, Apr 13             | [Lesson 5] |
-| 24 |  Thu, Apr 15             | [Lesson 6] |
-| 25 |  Tue, Apr 20             | [Lesson 8] |
-| 26 |  Thu, Apr 22             | [Lesson 9] |
-| 27 |  Tue, Apr 27             | [Lesson 11] |
-| 28 |  Thu, Apr 29             | [Lesson 12] |
-| 29 |  Tue, May 4              | [Lesson 14] |
-| 30 |  Thu, May 6               | [Lesson 1]  |
-| 31 |  Tue, May 11                | Final Exam/Presentations |
+| 14 |  Tue, Mar 16               | [Lesson 8] |
+| 15 |  Thu, Mar 18               | [Lesson 9] |
+| 16 |  Tue, Mar 23               | [Lesson 11] |
+| 17 |  Thu, Mar 25               | [Lesson 12] |
+| 18 |  Tue, Mar 29               | [Lesson 14] |
+| -  |  Thu, Apr 1               |  **Holiday - Cesar Chavez**  |
+| 19 |  Tue, Apr 6              | [Lesson 2] |
+| 20 |  Thu, Apr 8              | [Lesson 3] |
+| 21 |  Tue, Apr 13             | [Lesson 5] |
+| 22 |  Thu, Apr 15             | [Lesson 6] |
+| 23 |  Tue, Apr 20             | [Lesson 8] |
+| 24 |  Thu, Apr 22             | [Lesson 9] |
+| 25 |  Tue, Apr 27             | [Lesson 11] |
+| 26 |  Thu, Apr 29             | [Lesson 12] |
+| 27 |  Tue, May 4              | [Lesson 14] |
+| 28 |  Thu, May 6               | [Lesson 1]  |
+| 29 |  Tue, May 11                | Final Exam/Presentations |
 
 
 **SEMESTER Tu/Th/F Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
 
 **Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2020 (17 weeks)
 
-**Class Times:** Tuesday, Thursday, Friday at 9:30–10:30am (45 class sessions)
+**Class Times:** Tuesday, Thursday, Friday at 9:30–10:30am (43 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Jan 19               | [Lesson 1] |
-|  2 |  Thu, Jan 21               | [Lesson 2] |
-|  3 |  Fri, Jan 22               | [Lesson 3] |
-|  4 |  Tue, Jan 26               | [Lesson 4] |
-|  5 |  Thu, Jan 28               | [Lesson 5] |
-|  6 |  Fri, Jan 29               | [Lesson 6] |
-|  7 |  Tue, Feb 2                | [Lesson 7] |
-|  8 |  Thu, Feb 4                | [Lesson 8] |
-|  9 |  Fri, Feb 5                | [Lesson 9] |
-| 10 |  Tue, Feb 9                | [Lesson 10] |
-| 11 |  Thu, Feb 11               | [Lesson 11] |
-| 12 |  Fri, Feb 12               | [Lesson 12] |
-| 13 |  Tue, Feb 16               | [Lesson 13] |
-| 14 |  Thu, Feb 18               | [Lesson 14] |
-| 15 |  Fri, Feb 19               | [Lesson 1] |
-| 16 |  Tue, Feb 23               | [Lesson 2] |
-| 17 |  Thu, Feb 25               | [Lesson 3] |
-| 18 |  Fri, Feb 26               | [Lesson 4] |
-| 19 |  Tue, Mar 2                | [Lesson 5] |
-| 20 |  Thu, Mar 4                | [Lesson 6] |
-| 21 |  Fri, Mar 5                | [Lesson 7] |
+|  - |  Tue, Jan 19               | **Holiday - MLK Day** |
+|  1 |  Thu, Jan 21               | [Lesson 2] |
+|  2 |  Fri, Jan 22               | [Lesson 3] |
+|  3 |  Tue, Jan 26               | [Lesson 4] |
+|  4 |  Thu, Jan 28               | [Lesson 5] |
+|  5 |  Fri, Jan 29               | [Lesson 6] |
+|  6 |  Tue, Feb 2                | [Lesson 7] |
+|  7 |  Thu, Feb 4                | [Lesson 8] |
+|  8 |  Fri, Feb 5                | [Lesson 9] |
+|  9 |  Tue, Feb 9                | [Lesson 10] |
+| 10 |  Thu, Feb 11               | [Lesson 11] |
+| 11 |  Fri, Feb 12               | [Lesson 12] |
+| 12 |  Tue, Feb 16               | [Lesson 13] |
+| 13 |  Thu, Feb 18               | [Lesson 14] |
+| 14 |  Fri, Feb 19               | [Lesson 1] |
+| 15 |  Tue, Feb 23               | [Lesson 2] |
+| 16 |  Thu, Feb 25               | [Lesson 3] |
+| 17 |  Fri, Feb 26               | [Lesson 4] |
+| 18 |  Tue, Mar 2                | [Lesson 5] |
+| 19 |  Thu, Mar 4                | [Lesson 6] |
+| 20 |  Fri, Mar 5                | [Lesson 7] |
 | -  |  Tue, Mar 9                | **Holiday - Spring Break** |
 | -  |  Thu, Mar 11               | **Holiday - Spring Break** |
 | -  |  Fri, Mar 12               | **Holiday - Spring Break** |
-| 22 |  Tue, Mar 16               | [Lesson 8] |
-| 23 |  Thu, Mar 18               | [Lesson 9] |
-| 24 |  Fri, Mar 19               | [Lesson 10] |
-| 25 |  Tue, Mar 23               | [Lesson 11] |
-| 26 |  Thu, Mar 25               | [Lesson 12] |
-| 27 |  Fri, Mar 26               | [Lesson 13] |
-| 28 |  Tue, Mar 30               | [Lesson 14] |
-| 29 |  Thu, Apr 1               |  [Lesson 1]  |
+| 21 |  Tue, Mar 16               | [Lesson 8] |
+| 22 |  Thu, Mar 18               | [Lesson 9] |
+| 23 |  Fri, Mar 19               | [Lesson 10] |
+| 24 |  Tue, Mar 23               | [Lesson 11] |
+| 25 |  Thu, Mar 25               | [Lesson 12] |
+| 26 |  Fri, Mar 26               | [Lesson 13] |
+| 27 |  Tue, Mar 30               | [Lesson 14] |
+| -  |  Thu, Apr 1               |  **Holiday - Cesar Chavez**  |
 | -  |  Fri, Apr 2               | **Holiday - Good Friday**  |
-| 30 |  Tue, Apr 6              | [Lesson 2] |
-| 31 |  Thu, Apr 8              | [Lesson 3] |
-| 32 |  Fri, Apr 9              | [Lesson 4] |
-| 33 |  Tue, Apr 13             | [Lesson 5] |
-| 34 |  Thu, Apr 15             | [Lesson 6] |
-| 35 |  Fri, Apr 16             | [Lesson 7] |
-| 36 |  Tue, Apr 20             | [Lesson 8] |
-| 37 |  Thu, Apr 22             | [Lesson 9] |
-| 38 |  Fri, Apr 23             | [Lesson 10] |
-| 39 |  Tue, Apr 27             | [Lesson 11] |
-| 40 |  Thu, Apr 29             | [Lesson 12] |
-| 41 |  Fri, Apr 30             | [Lesson 13] |
-| 42 |  Tue, May 4              | [Lesson 14] |
-| 43 |  Thu, May 6               | [Lesson 1]  |
-| 44 |  Fri, May 7               | [Lesson 2]  |
-| 45 |  Tue, May 11                | Final Exam/Presentations |
+| 28 |  Tue, Apr 6              | [Lesson 2] |
+| 29 |  Thu, Apr 8              | [Lesson 3] |
+| 30 |  Fri, Apr 9              | [Lesson 4] |
+| 31 |  Tue, Apr 13             | [Lesson 5] |
+| 32 |  Thu, Apr 15             | [Lesson 6] |
+| 33 |  Fri, Apr 16             | [Lesson 7] |
+| 34 |  Tue, Apr 20             | [Lesson 8] |
+| 35 |  Thu, Apr 22             | [Lesson 9] |
+| 36 |  Fri, Apr 23             | [Lesson 10] |
+| 37 |  Tue, Apr 27             | [Lesson 11] |
+| 38 |  Thu, Apr 29             | [Lesson 12] |
+| 39 |  Fri, Apr 30             | [Lesson 13] |
+| 40 |  Tue, May 4              | [Lesson 14] |
+| 41 |  Thu, May 6               | [Lesson 1]  |
+| 42 |  Fri, May 7               | [Lesson 2]  |
+| 43 |  Tue, May 11                | Final Exam/Presentations |
 
 
 
