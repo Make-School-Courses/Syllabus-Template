@@ -228,6 +228,70 @@ Please pick from a template below and delete the other ones
 | 43 |  Tue, May 11                | Final Exam/Presentations |
 
 
+**SEMESTER Tu/W/Th Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
+
+**Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2020 (17 weeks)
+
+**Class Times:**
+
+- Tuesday, Thursday, at 12:30–1:45pm 
+- Wednesday at 1:30-2:30pm 
+- 44 class sessions
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  - |  Tue, Jan 19               | **No Class - MLK Day** |
+|  1 |  Wed, Jan 20               | [Lesson 1] |
+|  2 |  Thu, Jan 21               | [Lesson 2] |
+|  3 |  Tue, Jan 26               | [Lesson 4] |
+|  4 |  Wed, Jan 27               | [Lesson 3] |
+|  5 |  Thu, Jan 28               | [Lesson 5] |
+|  6 |  Tue, Feb 2                | [Lesson 7] |
+|  7 |  Wed, Feb 3                | [Lesson 5] |
+|  8 |  Thu, Feb 4                | [Lesson 8] |
+|  9 |  Tue, Feb 9                | [Lesson 10] |
+| 10 |  Wed, Feb 10               | [Lesson 7] |
+| 11 |  Thu, Feb 11               | [Lesson 11] |
+| 12 |  Tue, Feb 16               | [Lesson 13] |
+| 13 |  Wed, Feb 17               | [Lesson 9] |
+| 14 |  Thu, Feb 18               | [Lesson 14] |
+| 15 |  Tue, Feb 23               | [Lesson 2] |
+| 16 |  Wed, Feb 24               | [Lesson 11] |
+| 17 |  Thu, Feb 25               | [Lesson 3] |
+| 18 |  Tue, Mar 2                | [Lesson 5] |
+| 19 |  Wed, Mar 3                | [Lesson 5] |
+| 20 |  Thu, Mar 4                | [Lesson 6] |
+| -  |  Tue, Mar 9                | **No Class - Spring Break** |
+| -  |  Wed, Mar 10               | **No Class - Spring Break** |
+| -  |  Thu, Mar 11               | **No Class - Spring Break** |
+| 21 |  Tue, Mar 16               | [Lesson 8] |
+| 22 |  Wed, Mar 17               | [Lesson 8] |
+| 23 |  Thu, Mar 18               | [Lesson 9] |
+| 24 |  Tue, Mar 23               | [Lesson 11] |
+| 25 |  Wed, Mar 24               | [Lesson 11] 
+| 26 |  Thu, Mar 25               | [Lesson 12] |
+| 27 |  Tue, Mar 30               | [Lesson 14] |
+| -  |  Wed, Mar 31               |  **No Class - Cesar Chavez**  |
+| -  |  Thu, Apr 1                |  **No Class - Cesar Chavez**  |
+| 28 |  Tue, Apr 6                | [Lesson 2] |
+| 29 |  Wed, Apr 7                | [Lesson 2] |
+| 30 |  Thu, Apr 8                | [Lesson 3] |
+| 31 |  Tue, Apr 13               | [Lesson 5] |
+| 32 |  Wed, Apr 14               | [Lesson 5] |
+| 33 |  Thu, Apr 15               | [Lesson 6] |
+| 34 |  Tue, Apr 20               | [Lesson 8] |
+| 35 |  Wed, Apr 21               | [Lesson 8] |
+| 36 |  Thu, Apr 22               | [Lesson 9] |
+| 37 |  Tue, Apr 27               | [Lesson 11] |
+| 38 |  Wed, Apr 28               | [Lesson 11] |
+| 39 |  Thu, Apr 29               | [Lesson 12] |
+| 40 |  Tue, May 4                | [Lesson 14] |
+| 41 |  Wed, May 5                | [Lesson 14] |
+| 42 |  Thu, May 6                | [Lesson 1]  |
+| 43 |  Tue, May 11               | [Lesson 1] |
+| 44 |  Wed, May 12               | Final Exam/Presentations |
+
+
 
 
 
