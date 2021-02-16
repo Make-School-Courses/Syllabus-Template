@@ -12,6 +12,29 @@
 
 Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
 
+## Interview Topics
+
+Write what topis your course covers that students may encounter in a technical interview. Choose from the following sub-topics (pick all that apply):
+
+### Algorithmic/Computer Science
+
+Example topics:
+
+- Sorting algorithms
+- Search algorithms
+- Runtime Complexity
+- Data Structures
+- etc.
+
+### Technical Discussion
+
+Example topics:
+
+- Memory management
+- CRUD
+- Deploying a live app
+- etc.
+
 ### Why you should know this (optional)
 
 Explain why students should care to learn the material presented in this class.
