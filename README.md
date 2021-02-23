@@ -69,61 +69,61 @@ By the end of the course, you will be able to ...
 
 ---
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JANUARY 17]**
+**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MARCH 26]**
 
 Please pick from a template below and delete the other ones
 
 ---
 
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
+**M/W Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
 
-**Course Dates:** Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
+**Course Dates:** Monday, January 20 – Wednesday, May 12, 2021 (7 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, Jan 18               | **No Class - MLK Day** |
-|  1 |  Wed, Jan 20               | [Lesson 1] |
-|  2 |  Mon, Jan 25               | [Lesson 2] |
-|  3 |  Wed, Jan 27               | [Lesson 3] |
-|  4 |  Mon, Feb 1                | [Lesson 4] |
-|  5 |  Wed, Feb 3                | [Lesson 5] |
-|  6 |  Mon, Feb 8                | [Lesson 6] |
-|  7 |  Wed, Feb 10               | [Lesson 7] |
-|  8 |  Mon, Feb 15               | [Lesson 8] |
-|  9 |  Wed, Feb 17               | [Lesson 9] |
-| 10 |  Mon, Feb 22               | [Lesson 10] |
-| 11 |  Wed, Feb 24               | [Lesson 11] |
-| 12 |  Mon, Mar 1                | [Lesson 12] |
-| 13 |  Wed, Mar 3                | Final Exam/Presentations |
+|  1 |  Mon, Mar 29               | [Lesson 1] |
+|  - |  Wed, Mar 31               | **No Class - Cesar Chavez** |
+|  2 |  Mon, Apr 5                | [Lesson 2] |
+|  3 |  Wed, Apr 7                | [Lesson 3] |
+|  4 |  Mon, Apr 12               | [Lesson 4] |
+|  5 |  Wed, Apr 14               | [Lesson 5] |
+|  6 |  Mon, Apr 19               | [Lesson 6] |
+|  7 |  Wed, Apr 21               | [Lesson 7] |
+|  8 |  Mon, Apr 26               | [Lesson 8] |
+|  9 |  Wed, Apr 28               | [Lesson 9] |
+| 10 |  Mon, May 3                | [Lesson 10] |
+| 11 |  Wed, May 5                | [Lesson 11] |
+| 12 |  Mon, May 10               | [Lesson 12] |
+| 13 |  Wed, May 12               | Final Exam/Presentations |
 
 
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
+**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
 
-**Course Dates:** Tuesday, January 19 – Thursday, March 4, 2021 (7 weeks)
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Thu, Jan 21               | [Lesson 1] |
-|  2 |  Tue, Jan 26               | [Lesson 2] |
-|  3 |  Thu, Jan 28                | [Lesson 3] |
-|  4 |  Tue, Feb 2                | [Lesson 4] |
-|  5 |  Thu, Feb 4                | [Lesson 5] |
-|  6 |  Tue, Feb 9               | [Lesson 6] |
-|  7 |  Thu, Feb 11               | [Lesson 7] |
-|  8 |  Tue, Feb 16               | [Lesson 8] |
-|  9 |  Thu, Feb 18               | [Lesson 9] |
-| 10 |  Tue, Feb 23               | [Lesson 10] |
-| 11 |  Thu, Feb 25                | [Lesson 11] |
-| 12 |  Tue, Mar 2                | [Lesson 12] | 
-| 13 |  Tue, Mar 4                | Final Exam/Presentations | 
+|  1 |  Tue, Mar 30                | [Lesson 1] |
+|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |
+|  2 |  Tue, Apr 6                 | [Lesson 2] |
+|  3 |  Thu, Apr 8                 | [Lesson 3] |
+|  4 |  Tue, Apr 13                | [Lesson 4] |
+|  5 |  Thu, Apr 15                | [Lesson 5] |
+|  6 |  Tue, Apr 20                | [Lesson 6] |
+|  7 |  Thu, Apr 22                | [Lesson 7] |
+|  8 |  Tue, Apr 27                | [Lesson 8] |
+|  9 |  Thu, Apr 29                | [Lesson 9] |
+| 10 |  Tue, May 4                 | [Lesson 10] |
+| 11 |  Thu, May 6                 | [Lesson 11] |
+| 12 |  Tue, May 11                | [Lesson 12] | 
+| 13 |  Tue, May 13                | Final Exam/Presentations | 
 
 
-**SEMESTER Fri Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
+**SEMESTER Fri Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
 
 **Course Dates:** Friday, January 22 – Friday, May 7, 2021 (17 weeks)
 
@@ -149,7 +149,7 @@ Please pick from a template below and delete the other ones
 | 14 |  Fri, May 7                | Final Exam/Presentations  |
 
 
-**SEMESTER Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
+**SEMESTER Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
 
 **Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2021 (17 weeks)
 
@@ -192,7 +192,7 @@ Please pick from a template below and delete the other ones
 | 29 |  Tue, May 11                | Final Exam/Presentations |
 
 
-**SEMESTER Tu/Th/F Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
+**SEMESTER Tu/Th/F Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
 
 **Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2021 (17 weeks)
 
@@ -251,7 +251,7 @@ Please pick from a template below and delete the other ones
 | 43 |  Tue, May 11                | Final Exam/Presentations |
 
 
-**SEMESTER Tu/W/Th Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
+**SEMESTER Tu/W/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
 
 **Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2021 (17 weeks)
 
