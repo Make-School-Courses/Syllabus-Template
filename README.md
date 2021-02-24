@@ -97,7 +97,7 @@ Please pick from a template below and delete the other ones
 | 10 |  Tue, May 4                 | [Lesson 10] |
 | 11 |  Thu, May 6                 | [Lesson 11] |
 | 12 |  Tue, May 11                | [Lesson 12] | 
-| 13 |  Tue, May 13                | Final Exam/Presentations | 
+| 13 |  Thu, May 13                | Final Exam/Presentations | 
 
 
 **SEMESTER Fri Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
