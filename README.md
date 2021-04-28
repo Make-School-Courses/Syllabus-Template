@@ -25,7 +25,7 @@ Explain why students should care to learn the material presented in this class.
 
 ### **[INSTRUCTOR NOTE: PICK YOUR COURSE DELIVERY FORMAT, # OF WEEKS, AND # of CLASS SESSIONS BELOW. DELETE THE OTHER OPTIONS]**
 
-**Course Delivery**: Bichronous / Synchronous / Hybrid | 7/9 weeks | 12/14/16/18 sessions
+**Course Delivery**: Bichronous / Synchronous | 7/9 weeks | 12/14/16/18 sessions
 
 ### **[INSTRUCTOR NOTE: BASED ON YOUR COURSE DELIVERY FORMAT AND TYPE OF COURSE (TECH VS S&L) PICK THE APPROPRIATE COURSE CREDIT OPTION BELOW. SEE THE [CHART HERE](https://docs.google.com/document/d/1r9QY5jGyChmMwHsTh1cW9ipyONnpJjg_Y_9t3_M2Ahc/edit?ts=60898720) FOR MORE DETAILS]**
 
@@ -33,8 +33,8 @@ Explain why students should care to learn the material presented in this class.
 
 - Tech - Synchronous: 3 units | 37.5 Contact Hours/Term | 90 Non-Contact Hours/Term | 129.5 Total Hours/Term
 - Tech - Bichronous: 3 units | 14 Contact Hours/Term | 115.5 Non-Contact Hours/Term | 129.5 Total Hours/Term
-- S&L - Synchronous: 3 units | 50 Contact Hours/Term | 120 Non-Contact Hours/Term | 170 Total Hours/Term
-- S&L - Bichronous: 3 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 169 Total Hours/Term
+- S&L - Synchronous: 4 units | 50 Contact Hours/Term | 120 Non-Contact Hours/Term | 168 Total Hours/Term
+- S&L - Bichronous: 4 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 168 Total Hours/Term
 
 
 ## Learning Outcomes
