@@ -33,8 +33,8 @@ Explain why students should care to learn the material presented in this class.
 
 - Tech - Synchronous: 3 units | 37.5 Contact Hours/Term | 92 Non-Contact Hours/Term | 129.5 Total Hours/Term
 - Tech - Bichronous: 3 units | 14 Contact Hours/Term | 115.5 Non-Contact Hours/Term | 129.5 Total Hours/Term
-- S&L - Synchronous: 4 units | 50 Contact Hours/Term | 118 Non-Contact Hours/Term | 168 Total Hours/Term
-- S&L - Bichronous: 4 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 168 Total Hours/Term
+- S&L - Synchronous: 4 units | 50 Contact Hours/Term | 119 Non-Contact Hours/Term | 169 Total Hours/Term
+- S&L - Bichronous: 4 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 169 Total Hours/Term
 
 
 ## Learning Outcomes
