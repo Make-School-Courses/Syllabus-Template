@@ -23,11 +23,19 @@ Explain why students should care to learn the material presented in this class.
 
 ## Course Specifics
 
-### **[INSTRUCTOR NOTE: PICK YOUR COURSE DELIVERY FORMAT BELOW AND DELETE THE OTHER TWO]**
+### **[INSTRUCTOR NOTE: PICK YOUR COURSE DELIVERY FORMAT, # OF WEEKS, AND # of CLASS SESSIONS BELOW. DELETE THE OTHER OPTIONS]**
 
-**Course Delivery**: online / hybrid / residential | 7 weeks | 13 sessions
+**Course Delivery**: Bichronous / Synchronous / Hybrid | 7/9 weeks | 12/14/16/18 sessions
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
+### **[INSTRUCTOR NOTE: BASED ON YOUR COURSE DELIVERY FORMAT AND TYPE OF COURSE (TECH VS S&L) PICK THE APPROPRIATE COURSE CREDIT OPTION BELOW. SEE THE [CHART HERE](https://docs.google.com/document/d/1r9QY5jGyChmMwHsTh1cW9ipyONnpJjg_Y_9t3_M2Ahc/edit?ts=60898720) FOR MORE DETAILS]**
+
+**Course Credits**: 
+
+- Tech - Synchronous: 3 units | 37.5 Contact Hours/Term | 90 Non-Contact Hours/Term | 129.5 Total Hours/Term
+- Tech - Bichronous: 3 units | 14 Contact Hours/Term | 115.5 Non-Contact Hours/Term | 129.5 Total Hours/Term
+- S&L - Synchronous: 3 units | 50 Contact Hours/Term | 120 Non-Contact Hours/Term | 170 Total Hours/Term
+- S&L - Bichronous: 3 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 169 Total Hours/Term
+
 
 ## Learning Outcomes
 
@@ -46,250 +54,183 @@ By the end of the course, you will be able to ...
 
 ---
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MARCH 26]**
+**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 31]**
 
 Please pick from a template below and delete the other ones
 
+
 ---
 
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
+### **M/W TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
 
-**Course Dates:** Monday, January 20 – Wednesday, May 12, 2021 (7 weeks)
+**Course Dates:** Monday, May 31 – Wednesday, July 14, 2021 (7 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, Mar 29               | [Lesson 1] |
-|  - |  Wed, Mar 31               | **No Class - Cesar Chavez** |
-|  2 |  Mon, Apr 5                | [Lesson 2] |
-|  3 |  Wed, Apr 7                | [Lesson 3] |
-|  4 |  Mon, Apr 12               | [Lesson 4] |
-|  5 |  Wed, Apr 14               | [Lesson 5] |
-|  6 |  Mon, Apr 19               | [Lesson 6] |
-|  7 |  Wed, Apr 21               | [Lesson 7] |
-|  8 |  Mon, Apr 26               | [Lesson 8] |
-|  9 |  Wed, Apr 28               | [Lesson 9] |
-| 10 |  Mon, May 3                | [Lesson 10] |
-| 11 |  Wed, May 5                | [Lesson 11] |
-| 12 |  Mon, May 10               | [Lesson 12] |
-| 13 |  Wed, May 12               | Final Exam/Presentations |
-
-
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
-
-**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
+**Class Times:** Monday, Wednesday at 4:00pm–5:30pm (12 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, Mar 30                | [Lesson 1] |
-|  - |  Thu, Apr 1                 | **No Class - Cesar Chavez** |
-|  2 |  Tue, Apr 6                 | [Lesson 2] |
-|  3 |  Thu, Apr 8                 | [Lesson 3] |
-|  4 |  Tue, Apr 13                | [Lesson 4] |
-|  5 |  Thu, Apr 15                | [Lesson 5] |
-|  6 |  Tue, Apr 20                | [Lesson 6] |
-|  7 |  Thu, Apr 22                | [Lesson 7] |
-|  8 |  Tue, Apr 27                | [Lesson 8] |
-|  9 |  Thu, Apr 29                | [Lesson 9] |
-| 10 |  Tue, May 4                 | [Lesson 10] |
-| 11 |  Thu, May 6                 | [Lesson 11] |
-| 12 |  Tue, May 11                | [Lesson 12] | 
-| 13 |  Thu, May 13                | Final Exam/Presentations | 
+|  - |  Mon, May 31         | **No Class - Memorial Day** |
+|  1 |  Wed, June 2         | [Lesson 1] |
+|  2 |  Mon, June 7         | [Lesson 2] |
+|  3 |  Wed, June 9         | [Lesson 3] |
+|  4 |  Mon, June 14        | [Lesson 4] |
+|  5 |  Wed, June 16        | [Lesson 5] |
+|  6 |  Mon, June 21        | [Lesson 6] |
+|  7 |  Wed, June 23        | [Lesson 7] |
+|  8 |  Mon, June 28        | [Lesson 8] |
+|  9 |  Wed, June 30        | [Lesson 9] |
+| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
+| 10 |  Wed, July 7         | [Lesson 10] |
+| 11 |  Mon, July 12        | [Lesson 11] |
+| 12 |  Wed, July 14        | Final Exam/Presentations |
 
+---
 
-**SEMESTER Fri Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
+### **M/W S&L Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
 
-**Course Dates:** Friday, January 22 – Friday, May 7, 2021 (17 weeks)
+**Course Dates:** Monday, May 31 – Wednesday, July 28, 2021 (9 weeks)
 
-**Class Times:** Friday at 9:30am–12:30pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Fri, Jan 22               | [Lesson 1] |
-|  2 |  Fri, Jan 29               | [Lesson 2] |
-|  3 |  Fri, Feb 5                | [Lesson 3] |
-|  4 |  Fri, Feb 12               | [Lesson 4] |
-|  5 |  Fri, Feb 19               | [Lesson 5] |
-|  6 |  Fri, Feb 26               | [Lesson 6] |
-|  7 |  Fri, Mar 5                | [Lesson 2] |
-| -  |  Fri, Mar 12               | **No Class - Spring Break** |
-| 8  |  Fri, Mar 19               | [Lesson 10] |
-| 9 |   Fri, Mar 26               | [Lesson 13] |
-| -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Lesson 4] |
-| 11 |  Fri, Apr 16               | [Lesson 7] |
-| 12 |  Fri, Apr 23               | [Lesson 10] |
-| 13 |  Fri, Apr 30               | [Lesson 13] |
-| 14 |  Fri, May 7                | Final Exam/Presentations  |
-
-
-**SEMESTER Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
-
-**Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2021 (17 weeks)
-
-**Class Times:** Tuesday, Thursday at 9:30–11:30am (29 class sessions)
+**Class Times:** Monday, Wednesday at 4:00pm–5:30pm (16 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Thu, Jan 21               | [Lesson 2] |
-|  2 |  Tue, Jan 26               | [Lesson 4] |
-|  3 |  Thu, Jan 28               | [Lesson 5] |
-|  4 |  Tue, Feb 2                | [Lesson 7] |
-|  5 |  Thu, Feb 4                | [Lesson 8] |
-|  6 |  Tue, Feb 9                | [Lesson 10] |
-|  7 |  Thu, Feb 11               | [Lesson 11] |
-|  8 |  Tue, Feb 16               | [Lesson 13] |
-|  9 |  Thu, Feb 18               | [Lesson 14] |
-| 10 |  Tue, Feb 23               | [Lesson 2] |
-| 11 |  Thu, Feb 25               | [Lesson 3] |
-| 12 |  Tue, Mar 2                | [Lesson 5] |
-| 13 |  Thu, Mar 4                | [Lesson 6] |
-| -  |  Tue, Mar 9                | **No Class - Spring Break** |
-| -  |  Thu, Mar 11               | **No Class - Spring Break** |
-| 14 |  Tue, Mar 16               | [Lesson 8] |
-| 15 |  Thu, Mar 18               | [Lesson 9] |
-| 16 |  Tue, Mar 23               | [Lesson 11] |
-| 17 |  Thu, Mar 25               | [Lesson 12] |
-| 18 |  Tue, Mar 29               | [Lesson 14] |
-| -  |  Thu, Apr 1               |  **No Class - Cesar Chavez**  |
-| 19 |  Tue, Apr 6              | [Lesson 2] |
-| 20 |  Thu, Apr 8              | [Lesson 3] |
-| 21 |  Tue, Apr 13             | [Lesson 5] |
-| 22 |  Thu, Apr 15             | [Lesson 6] |
-| 23 |  Tue, Apr 20             | [Lesson 8] |
-| 24 |  Thu, Apr 22             | [Lesson 9] |
-| 25 |  Tue, Apr 27             | [Lesson 11] |
-| 26 |  Thu, Apr 29             | [Lesson 12] |
-| 27 |  Tue, May 4              | [Lesson 14] |
-| 28 |  Thu, May 6               | [Lesson 1]  |
-| 29 |  Tue, May 11                | Final Exam/Presentations |
+|  - |  Mon, May 31         | **No Class - Memorial Day** |
+|  1 |  Wed, June 2         | [Lesson 1] |
+|  2 |  Mon, June 7         | [Lesson 2] |
+|  3 |  Wed, June 9         | [Lesson 3] |
+|  4 |  Mon, June 14        | [Lesson 4] |
+|  5 |  Wed, June 16        | [Lesson 5] |
+|  6 |  Mon, June 21        | [Lesson 6] |
+|  7 |  Wed, June 23        | [Lesson 7] |
+|  8 |  Mon, June 28        | [Lesson 8] |
+|  9 |  Wed, June 30        | [Lesson 9] |
+| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
+| 10 |  Wed, July 7         | [Lesson 10] |
+| 11 |  Mon, July 12        | [Lesson 11] |
+| 12 |  Wed, July 14        | [Lesson 12] |
+| 13 |  Mon, July 19        | [Lesson 13] |
+| 14 |  Wed, July 21        | [Lesson 14] |
+| 15 |  Mon, July 26        | [Lesson 15] |
+| 16 |  Wed, July 28        | Final Exam/Presentations |
 
 
-**SEMESTER Tu/Th/F Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
+---
 
-**Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2021 (17 weeks)
+### **Tu/Th TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
 
-**Class Times:** Tuesday, Thursday, Friday at 9:30–10:30am (43 class sessions)
+**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
+
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Thu, Jan 21               | [Lesson 2] |
-|  2 |  Fri, Jan 22               | [Lesson 3] |
-|  3 |  Tue, Jan 26               | [Lesson 4] |
-|  4 |  Thu, Jan 28               | [Lesson 5] |
-|  5 |  Fri, Jan 29               | [Lesson 6] |
-|  6 |  Tue, Feb 2                | [Lesson 7] |
-|  7 |  Thu, Feb 4                | [Lesson 8] |
-|  8 |  Fri, Feb 5                | [Lesson 9] |
-|  9 |  Tue, Feb 9                | [Lesson 10] |
-| 10 |  Thu, Feb 11               | [Lesson 11] |
-| 11 |  Fri, Feb 12               | [Lesson 12] |
-| 12 |  Tue, Feb 16               | [Lesson 13] |
-| 13 |  Thu, Feb 18               | [Lesson 14] |
-| 14 |  Fri, Feb 19               | [Lesson 1] |
-| 15 |  Tue, Feb 23               | [Lesson 2] |
-| 16 |  Thu, Feb 25               | [Lesson 3] |
-| 17 |  Fri, Feb 26               | [Lesson 4] |
-| 18 |  Tue, Mar 2                | [Lesson 5] |
-| 19 |  Thu, Mar 4                | [Lesson 6] |
-| 20 |  Fri, Mar 5                | [Lesson 7] |
-| -  |  Tue, Mar 9                | **No Class - Spring Break** |
-| -  |  Thu, Mar 11               | **No Class - Spring Break** |
-| -  |  Fri, Mar 12               | **No Class - Spring Break** |
-| 21 |  Tue, Mar 16               | [Lesson 8] |
-| 22 |  Thu, Mar 18               | [Lesson 9] |
-| 23 |  Fri, Mar 19               | [Lesson 10] |
-| 24 |  Tue, Mar 23               | [Lesson 11] |
-| 25 |  Thu, Mar 25               | [Lesson 12] |
-| 26 |  Fri, Mar 26               | [Lesson 13] |
-| 27 |  Tue, Mar 30               | [Lesson 14] |
-| -  |  Thu, Apr 1               |  **No Class - Cesar Chavez**  |
-| -  |  Fri, Apr 2               | **No Class - Good Friday**  |
-| 28 |  Tue, Apr 6              | [Lesson 2] |
-| 29 |  Thu, Apr 8              | [Lesson 3] |
-| 30 |  Fri, Apr 9              | [Lesson 4] |
-| 31 |  Tue, Apr 13             | [Lesson 5] |
-| 32 |  Thu, Apr 15             | [Lesson 6] |
-| 33 |  Fri, Apr 16             | [Lesson 7] |
-| 34 |  Tue, Apr 20             | [Lesson 8] |
-| 35 |  Thu, Apr 22             | [Lesson 9] |
-| 36 |  Fri, Apr 23             | [Lesson 10] |
-| 37 |  Tue, Apr 27             | [Lesson 11] |
-| 38 |  Thu, Apr 29             | [Lesson 12] |
-| 39 |  Fri, Apr 30             | [Lesson 13] |
-| 40 |  Tue, May 4              | [Lesson 14] |
-| 41 |  Thu, May 6               | [Lesson 1]  |
-| 42 |  Fri, May 7               | [Lesson 2]  |
-| 43 |  Tue, May 11                | Final Exam/Presentations |
+|  1 |  Tue, June 1         | [Lesson 1] |
+|  2 |  Thu, June 3         | [Lesson 2] |
+|  3 |  Tue, June 8         | [Lesson 3] |
+|  4 |  Thu, June 10        | [Lesson 4] |
+|  5 |  Tue, June 15        | [Lesson 5] |
+|  6 |  Thu, June 17        | [Lesson 6] |
+|  7 |  Tue, June 22        | [Lesson 7] |
+|  8 |  Thu, June 24        | [Lesson 8] |
+|  9 |  Tue, June 29        | [Lesson 9] |
+| 10 |  Thu, July 1         | [Lesson 10] |
+| 11 |  Tue, July 6         | [Lesson 11] |
+| 12 |  Thu, July 8         | [Lesson 12] |
+| 13 |  Tue, July 13        | [Lesson 13] |
+| 14 |  Thu, July 15        | Final Exam/Presentations |
 
+---
 
-**SEMESTER Tu/W/Th Template [PLEASE REMOVE THIS HEADER BEFORE MARCH 26]**
+### **Tu/Th S&L Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
 
-**Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2021 (17 weeks)
+**Course Dates:** Tuesday, June 1 – Thursday, July 29, 2021 (9 weeks)
 
-**Class Times:**
-
-- Tuesday, Thursday, at 12:30–1:45pm 
-- Wednesday at 1:30-2:30pm 
-- 44 class sessions
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (18 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Wed, Jan 20               | [Lesson 1] |
-|  2 |  Thu, Jan 21               | [Lesson 2] |
-|  3 |  Tue, Jan 26               | [Lesson 4] |
-|  4 |  Wed, Jan 27               | [Lesson 3] |
-|  5 |  Thu, Jan 28               | [Lesson 5] |
-|  6 |  Tue, Feb 2                | [Lesson 7] |
-|  7 |  Wed, Feb 3                | [Lesson 5] |
-|  8 |  Thu, Feb 4                | [Lesson 8] |
-|  9 |  Tue, Feb 9                | [Lesson 10] |
-| 10 |  Wed, Feb 10               | [Lesson 7] |
-| 11 |  Thu, Feb 11               | [Lesson 11] |
-| 12 |  Tue, Feb 16               | [Lesson 13] |
-| 13 |  Wed, Feb 17               | [Lesson 9] |
-| 14 |  Thu, Feb 18               | [Lesson 14] |
-| 15 |  Tue, Feb 23               | [Lesson 2] |
-| 16 |  Wed, Feb 24               | [Lesson 11] |
-| 17 |  Thu, Feb 25               | [Lesson 3] |
-| 18 |  Tue, Mar 2                | [Lesson 5] |
-| 19 |  Wed, Mar 3                | [Lesson 5] |
-| 20 |  Thu, Mar 4                | [Lesson 6] |
-| -  |  Tue, Mar 9                | **No Class - Spring Break** |
-| -  |  Wed, Mar 10               | **No Class - Spring Break** |
-| -  |  Thu, Mar 11               | **No Class - Spring Break** |
-| 21 |  Tue, Mar 16               | [Lesson 8] |
-| 22 |  Wed, Mar 17               | [Lesson 8] |
-| 23 |  Thu, Mar 18               | [Lesson 9] |
-| 24 |  Tue, Mar 23               | [Lesson 11] |
-| 25 |  Wed, Mar 24               | [Lesson 11] 
-| 26 |  Thu, Mar 25               | [Lesson 12] |
-| 27 |  Tue, Mar 30               | [Lesson 14] |
-| -  |  Wed, Mar 31               |  **No Class - Cesar Chavez**  |
-| -  |  Thu, Apr 1                |  **No Class - Cesar Chavez**  |
-| 28 |  Tue, Apr 6                | [Lesson 2] |
-| 29 |  Wed, Apr 7                | [Lesson 2] |
-| 30 |  Thu, Apr 8                | [Lesson 3] |
-| 31 |  Tue, Apr 13               | [Lesson 5] |
-| 32 |  Wed, Apr 14               | [Lesson 5] |
-| 33 |  Thu, Apr 15               | [Lesson 6] |
-| 34 |  Tue, Apr 20               | [Lesson 8] |
-| 35 |  Wed, Apr 21               | [Lesson 8] |
-| 36 |  Thu, Apr 22               | [Lesson 9] |
-| 37 |  Tue, Apr 27               | [Lesson 11] |
-| 38 |  Wed, Apr 28               | [Lesson 11] |
-| 39 |  Thu, Apr 29               | [Lesson 12] |
-| 40 |  Tue, May 4                | [Lesson 14] |
-| 41 |  Wed, May 5                | [Lesson 14] |
-| 42 |  Thu, May 6                | [Lesson 1]  |
-| 43 |  Tue, May 11               | [Lesson 1] |
-| 44 |  Wed, May 12               | Final Exam/Presentations |
+|  1 |  Tue, June 1         | [Lesson 1] |
+|  2 |  Thu, June 3         | [Lesson 2] |
+|  3 |  Tue, June 8         | [Lesson 3] |
+|  4 |  Thu, June 10        | [Lesson 4] |
+|  5 |  Tue, June 15        | [Lesson 5] |
+|  6 |  Thu, June 17        | [Lesson 6] |
+|  7 |  Tue, June 22        | [Lesson 7] |
+|  8 |  Thu, June 24        | [Lesson 8] |
+|  9 |  Tue, June 29        | [Lesson 9] |
+| 10 |  Thu, July 1         | [Lesson 10] |
+| 11 |  Tue, July 6         | [Lesson 11] |
+| 12 |  Thu, July 8         | [Lesson 12] |
+| 13 |  Tue, July 13        | [Lesson 13] |
+| 14 |  Thu, July 15        | [Lesson 14] |
+| 15 |  Tue, July 20        | [Lesson 15] |
+| 16 |  Thu, July 22        | [Lesson 16] |
+| 17 |  Tue, July 27        | [Lesson 17] |
+| 18 |  Thu, July 29        | Final Exam/Presentations |
+
+---
+
+### **M/W/F TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
+
+**Course Dates:** Monday, May 31 – Friday, July 16, 2021 (7 weeks)
+
+**Class Times:** Monday, Wednesday, Friday at 9:30am–11:15am (19 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  - |  Mon, May 31         | **No Class - Memorial Day** |
+|  1 |  Wed, June 2         | [Lesson 1] |
+|  2 |  Fri, June 4         | [Lesson 2] |
+|  3 |  Mon, June 7         | [Lesson 3] |
+|  4 |  Wed, June 9         | [Lesson 4] |
+|  5 |  Fri, June 11        | [Lesson 5] |
+|  6 |  Mon, June 14        | [Lesson 6] |
+|  7 |  Wed, June 16        | [Lesson 7] |
+|  8 |  Fri, June 18        | [Lesson 8] |
+|  9 |  Mon, June 21        | [Lesson 9] |
+| 10 |  Wed, June 23        | [Lesson 10] |
+| 11 |  Fri, June 25        | [Lesson 11] |
+| 12 |  Mon, June 28        | [Lesson 12] |
+| 13 |  Wed, June 30        | [Lesson 13] |
+| 14 |  Fri, July 2         | [Lesson 14] |
+| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
+| 15 |  Wed, July 7         | [Lesson 15] |
+| 16 |  Fri, July 9         | [Lesson 16] |
+| 17 |  Mon, July 12        | [Lesson 17] |
+| 18 |  Wed, July 14        | [Lesson 18] |
+| 19 |  Fri, July 16        | Final Exam/Presentations |
+
+---
+
+### **W/F S&L Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
+
+**Course Dates:** Wednesday, June 2 – Friday, July 30, 2021 (9 weeks)
+
+**Class Times:** Wednesday, Friday at 12:45pm–2:15pm (18 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Wed, June 2         | [Lesson 1] |
+|  2 |  Fri, June 4         | [Lesson 2] |
+|  3 |  Wed, June 9         | [Lesson 3] |
+|  4 |  Fri, June 11        | [Lesson 4] |
+|  5 |  Wed, June 16        | [Lesson 5] |
+|  6 |  Fri, June 18        | [Lesson 6] |
+|  7 |  Wed, June 23        | [Lesson 7] |
+|  8 |  Fri, June 25        | [Lesson 8] |
+|  9 |  Wed, June 30        | [Lesson 9] |
+| 10 |  Fri, July 2         | [Lesson 10] |
+| 11 |  Wed, July 7         | [Lesson 11] |
+| 12 |  Fri, July 9        | [Lesson 12] |
+| 13 |  Wed, July 14        | [Lesson 13] |
+| 14 |  Fri, July 16        | [Lesson 14] |
+| 15 |  Wed, July 21        | [Lesson 15] |
+| 16 |  Fri, July 23        | [Lesson 16] |
+| 17 |  Wed, July 28        | [Lesson 17] |
+| 18 |  Fri, July 30        | Final Exam/Presentations |
+
+
+---
 
 
 
@@ -339,54 +280,54 @@ Please pick from a template below and delete the other ones
 <!-- omit in toc -->
 ### **Section A: INSTRUCTOR NAME - HYBRID**
 
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2021 (8 weeks)
+**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
 
 Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
 
+
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Oct 21               | [Lesson 1] |
-|  2 |  Mon, Oct 26               | [Lesson 2] |
-|  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Lesson 4] |
-|  5 |  Mon, Nov 9               | [Lesson 5] |
-|  6 |  Wed, Nov 11               | [Lesson 6] |
-|  7 |  Mon, Nov 16              | [Lesson 7] |
-|  8 |  Wed, Nov 18              | [Lesson 8] |
-|  9 |  Mon, Nov 23              | [Lesson 9] |
-|  - |  Wed, Nov 25               | **No Class - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Lesson 10] |
-| 11 |  Wed, Dec 2              | [Lesson 11] |
-| 12 |  Mon, Dec 7              | [Lesson 12] |
-| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
+|  1 |  Tue, June 1         | [Lesson 1] |
+|  2 |  Thu, June 3         | [Lesson 2] |
+|  3 |  Tue, June 8         | [Lesson 3] |
+|  4 |  Thu, June 10        | [Lesson 4] |
+|  5 |  Tue, June 15        | [Lesson 5] |
+|  6 |  Thu, June 17        | [Lesson 6] |
+|  7 |  Tue, June 22        | [Lesson 7] |
+|  8 |  Thu, June 24        | [Lesson 8] |
+|  9 |  Tue, June 29        | [Lesson 9] |
+| 10 |  Thu, July 1         | [Lesson 10] |
+| 11 |  Tue, July 6         | [Lesson 11] |
+| 12 |  Thu, July 8         | [Lesson 12] |
+| 13 |  Tue, July 13        | [Lesson 13] |
+| 14 |  Thu, July 15        | Final Exam/Presentations |
 
 <!-- omit in toc -->
 ### **Section B: INSTRUCTOR NAME**
 
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2021 (8 weeks)
+**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
+
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Oct 21               | [Lesson 1] |
-|  2 |  Mon, Oct 26               | [Lesson 2] |
-|  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Lesson 4] |
-|  5 |  Mon, Nov 9               | [Lesson 5] |
-|  6 |  Wed, Nov 11               | [Lesson 6] |
-|  7 |  Mon, Nov 16              | [Lesson 7] |
-|  8 |  Wed, Nov 18              | [Lesson 8] |
-|  9 |  Mon, Nov 23              | [Lesson 9] |
-|  - |  Wed, Nov 25               | **No Class - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Lesson 10] |
-| 11 |  Wed, Dec 2              | [Lesson 11] |
-| 12 |  Mon, Dec 7              | [Lesson 12] |
-| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
+|  1 |  Tue, June 1         | [Lesson 1] |
+|  2 |  Thu, June 3         | [Lesson 2] |
+|  3 |  Tue, June 8         | [Lesson 3] |
+|  4 |  Thu, June 10        | [Lesson 4] |
+|  5 |  Tue, June 15        | [Lesson 5] |
+|  6 |  Thu, June 17        | [Lesson 6] |
+|  7 |  Tue, June 22        | [Lesson 7] |
+|  8 |  Thu, June 24        | [Lesson 8] |
+|  9 |  Tue, June 29        | [Lesson 9] |
+| 10 |  Thu, July 1         | [Lesson 10] |
+| 11 |  Tue, July 6         | [Lesson 11] |
+| 12 |  Thu, July 8         | [Lesson 12] |
+| 13 |  Tue, July 13        | [Lesson 13] |
+| 14 |  Thu, July 15        | Final Exam/Presentations |
 
 <!-- tabs:end -->
 
