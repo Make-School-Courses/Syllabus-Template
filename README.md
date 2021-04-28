@@ -234,8 +234,6 @@ Please pick from a template below and delete the other ones
 
 
 
-
-
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
